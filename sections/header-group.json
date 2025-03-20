@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "EASY RETURNS AND EXCHANGES",
+            "url": ""
+          }
+        },
+        "message_4y8fTU": {
+          "type": "message",
+          "settings": {
+            "text": "SPRING SALE: UP TO 60% OFF!",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_4y8fTU"
       ],
       "settings": {
         "enable_sticky": false,
