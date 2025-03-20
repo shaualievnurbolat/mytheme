@@ -131,6 +131,80 @@
         "input_text_color": ""
       }
     },
+    "multi_column_aNLdCY": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NEtKbG": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/e2b5ea77f2e84ed88353bdc7b45de486.HD-1080p-2.5Mbps-40357967.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kmmkN9": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/c98931ac80c24167bdf4abdb2a7c0fad.HD-1080p-2.5Mbps-40358109.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Kw7F8w": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/9788076af33d4dfebb6fbfa8b0101dfe.HD-1080p-2.5Mbps-40358159.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_R6wX88": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NEtKbG",
+        "item_kmmkN9",
+        "item_Kw7F8w",
+        "item_R6wX88"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Join our community of 1M+ happy customers",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -156,6 +230,7 @@
   },
   "order": [
     "main",
+    "multi_column_aNLdCY",
     "related-products"
   ]
 }
