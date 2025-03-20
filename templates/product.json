@@ -49,7 +49,7 @@
             "stack_blocks": true,
             "selector_mode": "block",
             "color_mode": "variant",
-            "size_chart_page": ""
+            "size_chart_page": "data-sale-opt-out"
           }
         },
         "quantity_selector": {
