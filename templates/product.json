@@ -67,6 +67,10 @@
             "size_chart_page": "size-chart"
           }
         },
+        "vendor_rhN8GA": {
+          "type": "vendor",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -119,6 +123,7 @@
         "payment_terms",
         "separator",
         "variant_picker",
+        "vendor_rhN8GA",
         "quantity_selector",
         "buy_buttons",
         "liquid_YUDm6R",
