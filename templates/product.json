@@ -318,6 +318,67 @@
         "text_color": ""
       }
     },
+    "multi_column_9iwEBt": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FW46kt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bodypositivity-v1.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TVpRft": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bodypositivity-v3_1f942e60-0dc8-41f2-b4cd-bb5fc14449b8.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YUBFMw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bodypositivity-v2_1.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FW46kt",
+        "item_TVpRft",
+        "item_YUBFMw"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "Body Positivity",
+        "title": "We Celebrate Every Body",
+        "content": "<p>We are passionately committed to uplifting and empowering individuals by embracing body diversity. Our shapewear is designed to highlight the beauty of bodies in all shapes, sizes, and shades. We reject the notion of a one-size-fits-all beauty standard, focusing instead on creating garments that make you feel confidently you.</p><p>Our mission extends beyond aesthetics; it's about fostering self-love and self-acceptance. We collaborate with body-positive activists and communities to spread the message of inclusivity, ensuring that everyone feels seen and valued. Whether you're wearing our shapewear for a special occasion or as a daily confidence booster, know that you are perfect just the way you are.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -346,6 +407,7 @@
     "multi_column_aNLdCY",
     "media_with_text_cVcQLQ",
     "multi_column_dUqm7N",
+    "multi_column_9iwEBt",
     "related-products"
   ]
 }
