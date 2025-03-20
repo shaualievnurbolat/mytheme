@@ -176,6 +176,7 @@
         "item_R6wX88": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/55ff5cd64eca4a629259666a7529697f.HD-1080p-2.5Mbps-40358212.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -199,6 +200,118 @@
         "text_alignment": "start",
         "subheading": "",
         "title": "Join our community of 1M+ happy customers",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_cVcQLQ": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_mzTzcy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/HEYSHAPE-294_4e06afde-a16c-4cf5-945f-f4ae4daa1c50.webp",
+            "media_width": 60,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "What Makes Our Products So Unique?",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mzTzcy"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "multi_column_dUqm7N": {
+      "type": "multi-column",
+      "blocks": {
+        "item_pF3Cxi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/360_750x750_855fdd42-efba-47f9-bafa-16098a2444d2.gif",
+            "column_size": "3",
+            "title": "360° Snatch",
+            "heading_tag": "h4",
+            "content": "<p>The fabric follows the shape of the body, giving the garments comfort, freedom of movement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KDyQDt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/soft_750x750_436a7758-7bb4-4d62-ae93-078113b1f7b5.gif",
+            "column_size": "3",
+            "title": "Incredibly Soft",
+            "heading_tag": "h4",
+            "content": "<p>Our fabrics are studied for the comfort of ultra sensitive skins to prevent skin irritation.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_iLjYAG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/breathable_750x750_7649d2fe-dc39-40db-aa8e-e1eb620a9901.webp",
+            "column_size": "3",
+            "title": "Breathable",
+            "heading_tag": "h4",
+            "content": "<p>Our clothing efficiently wicks away sweat to ensure you stay dry throughout your day.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pQ8WPC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/cool_750x750_8cc82863-a6ad-4c45-9a15-e505bb8b19bb.gif",
+            "column_size": "3",
+            "title": "Keep it cool",
+            "heading_tag": "h4",
+            "content": "<p>Our products are designed to solve all the performance issues of other activewear.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_pF3Cxi",
+        "item_KDyQDt",
+        "item_iLjYAG",
+        "item_pQ8WPC"
+      ],
+      "custom_css": [
+        ".multi-column__item img {width: 50px; margin: 0 auto;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -231,6 +344,8 @@
   "order": [
     "main",
     "multi_column_aNLdCY",
+    "media_with_text_cVcQLQ",
+    "multi_column_dUqm7N",
     "related-products"
   ]
 }
