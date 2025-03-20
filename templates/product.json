@@ -79,6 +79,9 @@
         "quantity_selector",
         "buy_buttons"
       ],
+      "custom_css": [
+        ".media-swatch {width: 45px !important;}"
+      ],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
