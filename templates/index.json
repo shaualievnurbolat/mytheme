@@ -12,10 +12,6 @@
     "featured_product_kPY6QL": {
       "type": "featured-product",
       "blocks": {
-        "vendor_rnNXJb": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_YTniyH": {
           "type": "title",
           "settings": {
@@ -79,7 +75,6 @@
         }
       },
       "block_order": [
-        "vendor_rnNXJb",
         "title_YTniyH",
         "badges_TVXVxP",
         "price_xKBcxe",
@@ -93,7 +88,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "snatched-shapewear-bodysuit",
+        "product": "back-smoothing-push-up-bra",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
