@@ -9,101 +9,6 @@
  */
 {
   "sections": {
-    "featured_product_kPY6QL": {
-      "type": "featured-product",
-      "blocks": {
-        "title_YTniyH": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_TVXVxP": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_xKBcxe": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_PAJxNC": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_zYrJRA": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_hrpKDK": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_9rgncc": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_3fqeBX": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_q9gEXn": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_kinz38": {
-          "type": "pickup_availability",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "title_YTniyH",
-        "badges_TVXVxP",
-        "price_xKBcxe",
-        "rating_PAJxNC",
-        "separator_zYrJRA",
-        "description_hrpKDK",
-        "variant_picker_9rgncc",
-        "quantity_selector_3fqeBX",
-        "buy_buttons_q9gEXn",
-        "pickup_availability_kinz38"
-      ],
-      "settings": {
-        "full_width": true,
-        "product": "back-smoothing-push-up-bra",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -159,7 +64,6 @@
     }
   },
   "order": [
-    "featured_product_kPY6QL",
     "faq"
   ]
 }
