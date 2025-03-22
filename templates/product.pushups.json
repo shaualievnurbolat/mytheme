@@ -53,22 +53,14 @@
           "type": "payment_terms",
           "settings": {}
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "variant_picker": {
-          "type": "variant_picker",
+        "description_JYCeD7": {
+          "type": "description",
           "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "variant",
-            "size_chart_page": "size-chart"
+            "collapse_content": false
           }
         },
-        "vendor_rhN8GA": {
-          "type": "vendor",
+        "separator": {
+          "type": "separator",
           "settings": {}
         },
         "quantity_selector": {
@@ -96,7 +88,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Description",
-            "content": "<p></p>{{ product.description }}"
+            "content": "<p><strong>It’s the back-smoothing shaping bra you’ve been waiting for.</strong> Its innovative design smooths out your back fat, giving you a gravity-defying lift with ultimate comfort, no matter your size. <strong>Fits true to size</strong></p><p>✌️ 100% Back Smoothing</p><p>⬆️ Gradual lift cup</p><p>🤍 Body hugging fit</p><p>✨ Smooth under tops</p><p><strong>Fabric: </strong>80% Nylon & 20% Spandex</p><p><strong>Lining: </strong>83% Viscose & 17% Polyester</p><p><strong>Wash Care:</strong> Machine Wash. Do not bleach. Lay flat to dry.</p>"
           }
         },
         "collapsible_text_mXCFzc": {
@@ -106,11 +98,20 @@
             "content": "<p>Due to the influx of orders from our ongoing <strong>sale</strong>, there will be a slight delay in dispatch. Rest assured, all orders will be shipped within a <strong>24-48 hour timeframe</strong>. Depending on your geographic location, the delivery may take approximately <strong>5-7 business days</strong>.<br/><br/>Although we offer shipping to all countries, a few islands are excluded from our delivery area. If your country is available during checkout we ship to your country. We also provide standard international tracked shipping at no additional cost on all orders.<br/><br/>Additionally, we offer a premium international insured shipping option at a modest charge of <strong>$2,99 USD</strong>, which we highly recommend for prioritized service and faster delivery.</p>"
           }
         },
-        "collapsible_text_kCJf8q": {
-          "type": "collapsible_text",
+        "image_RMJ7bq": {
+          "type": "image",
           "settings": {
-            "title": "Careguide",
-            "content": "<p>1. Hand wash or use a delicate cycle: To keep your shapewear looking its best, it's important to handle it with care. Hand washing is the gentlest way to clean your shapewear, but if you prefer to use a washing machine, be sure to use a delicate cycle.</p><p>2. Use mild detergent: Harsh detergents can damage the delicate fabrics used in shapewear, so it's best to use a mild detergent. Avoid using fabric softeners and bleach, as they can also damage the fabric.</p><p>3. Air dry: After washing your shapewear, don't put it in the dryer. Instead, lay it flat or hang it to air dry. Avoid exposing it to direct sunlight, as this can cause the fabric to fade.</p><p>4. Store carefully: To prevent your shapewear from getting stretched out of shape, store it carefully. Fold it neatly and store it in a drawer or on a hanger. Avoid storing it in direct sunlight or in a humid environment.</p><p>5. Replace when necessary: Shapewear is designed to provide support and contouring for your body, but over time, the fabric may lose its elasticity and effectiveness. Replace your shapewear when it no longer provides the desired support or if it becomes worn or damaged.</p>"
+            "image": "shopify://shop_images/1_1024x1024_2b727865-45ed-4353-aca7-8cbdf39d3f2a.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_F7JKtq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_1024x1024_cd03f407-41b2-435a-ba6a-79fd6a0ad45b.webp",
+            "alignment": "center",
+            "max_width": 500
           }
         }
       },
@@ -121,15 +122,15 @@
         "price",
         "rating",
         "payment_terms",
+        "description_JYCeD7",
         "separator",
-        "variant_picker",
-        "vendor_rhN8GA",
         "quantity_selector",
         "buy_buttons",
         "liquid_YUDm6R",
         "collapsible_text_CFPQGB",
         "collapsible_text_mXCFzc",
-        "collapsible_text_kCJf8q"
+        "image_RMJ7bq",
+        "image_F7JKtq"
       ],
       "custom_css": [
         ".media-swatch {width: 45px !important;}"
@@ -158,7 +159,7 @@
         "item_NEtKbG": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/e2b5ea77f2e84ed88353bdc7b45de486.HD-1080p-2.5Mbps-40357967.mp4",
+            "video": "shopify://files/videos/c1ca61af23e04338ac47e699aa0728cf.HD-1080p-2.5Mbps-36904647 (1).mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -171,7 +172,7 @@
         "item_kmmkN9": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/c98931ac80c24167bdf4abdb2a7c0fad.HD-1080p-2.5Mbps-40358109.mp4",
+            "video": "shopify://files/videos/8c22801e4ad84de98d63914f6ec4b7ba.HD-1080p-3.3Mbps-41590647 (1).mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -184,7 +185,7 @@
         "item_Kw7F8w": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/9788076af33d4dfebb6fbfa8b0101dfe.HD-1080p-2.5Mbps-40358159.mp4",
+            "video": "shopify://files/videos/59e0e2d0b3d94feabeddc1509af47924.HD-1080p-4.8Mbps-41590952.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -271,7 +272,7 @@
             "column_size": "3",
             "title": "360° Snatch",
             "heading_tag": "h4",
-            "content": "<p>The fabric follows the shape of the body, giving the garments comfort, freedom of movement.</p>",
+            "content": "<p>Celine's Fabric follows the shape of your body, giving the garments comfort and freedom of movement.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -284,7 +285,7 @@
             "column_size": "3",
             "title": "Incredibly Soft",
             "heading_tag": "h4",
-            "content": "<p>Our fabrics are studied for the comfort of ultra sensitive skins to prevent skin irritation.</p>",
+            "content": "<p>Our fabrics are meticulously designed for ultra-sensitive skin, ensuring maximum comfort and preventing irritation.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -297,7 +298,7 @@
             "column_size": "3",
             "title": "Breathable",
             "heading_tag": "h4",
-            "content": "<p>Our clothing efficiently wicks away sweat to ensure you stay dry throughout your day.</p>",
+            "content": "<p>Our clothing effectively wicks away sweat, keeping you dry and comfortable all day long.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -310,7 +311,7 @@
             "column_size": "3",
             "title": "Keep it cool",
             "heading_tag": "h4",
-            "content": "<p>Our products are designed to solve all the performance issues of other activewear.</p>",
+            "content": "<p>Our products are crafted to overcome the performance challenges found in other activewear.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -345,34 +346,8 @@
         "item_FW46kt": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/bodypositivity-v1.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TVpRft": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/bodypositivity-v3_1f942e60-0dc8-41f2-b4cd-bb5fc14449b8.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YUBFMw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/bodypositivity-v2_1.webp",
-            "column_size": "3",
+            "image": "shopify://shop_images/shapedly_hassliche2.webp",
+            "column_size": "1.5",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -383,18 +358,16 @@
         }
       },
       "block_order": [
-        "item_FW46kt",
-        "item_TVpRft",
-        "item_YUBFMw"
+        "item_FW46kt"
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "gap": "medium",
         "text_alignment": "start",
         "subheading": "Body Positivity",
         "title": "We Celebrate Every Body",
-        "content": "<p>We are passionately committed to uplifting and empowering individuals by embracing body diversity. Our shapewear is designed to highlight the beauty of bodies in all shapes, sizes, and shades. We reject the notion of a one-size-fits-all beauty standard, focusing instead on creating garments that make you feel confidently you.</p><p>Our mission extends beyond aesthetics; it's about fostering self-love and self-acceptance. We collaborate with body-positive activists and communities to spread the message of inclusivity, ensuring that everyone feels seen and valued. Whether you're wearing our shapewear for a special occasion or as a daily confidence booster, know that you are perfect just the way you are.</p>",
+        "content": "<p>We believe beauty shouldn't be a compromise between looking good and feeling good.</p><p></p><p>Our Shapedly Bra offers unparalleled comfort, fit, and style, so you can conquer the day without a second thought about your undergarments.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
