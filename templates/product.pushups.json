@@ -252,6 +252,21 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "scrolling_text_MjXXWT": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Easy Returns | 1300+ 5 Star Reviews",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_cVcQLQ": {
       "type": "media-with-text",
       "blocks": {
@@ -434,6 +449,7 @@
     "main",
     "multi_column_aNLdCY",
     "before_after_image_HKMWdU",
+    "scrolling_text_MjXXWT",
     "media_with_text_cVcQLQ",
     "multi_column_dUqm7N",
     "multi_column_9iwEBt",
