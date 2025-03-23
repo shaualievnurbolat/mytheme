@@ -11,108 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "featured_product_UEmDzX": {
-      "type": "featured-product",
-      "blocks": {
-        "title_9AydJy": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_DANb6J": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_cYYnei": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_GW3E4G": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_HyByAi": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_WQmzeN": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_GjjbYC": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_P9T3NU": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "kaching_bundles_app_block_b9c9iy": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "buy_buttons_dpyLKM": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_tAwWRM": {
-          "type": "pickup_availability",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "title_9AydJy",
-        "badges_DANb6J",
-        "price_cYYnei",
-        "rating_GW3E4G",
-        "separator_HyByAi",
-        "description_WQmzeN",
-        "variant_picker_GjjbYC",
-        "quantity_selector_P9T3NU",
-        "kaching_bundles_app_block_b9c9iy",
-        "buy_buttons_dpyLKM",
-        "pickup_availability_tAwWRM"
-      ],
-      "settings": {
-        "full_width": true,
-        "product": "back-smoothing-push-up-bra",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -217,7 +115,6 @@
     }
   },
   "order": [
-    "featured_product_UEmDzX",
     "text-with-icons",
     "footer"
   ]
