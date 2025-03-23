@@ -9,6 +9,32 @@
  */
 {
   "sections": {
+    "video_X7ttGn": {
+      "type": "video",
+      "blocks": {
+        "heading_PWpzPb": {
+          "type": "heading",
+          "settings": {
+            "text": "Unleash Your Inner Confidence with HeyShape",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PWpzPb"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "md",
+        "video": "shopify://files/videos/06b9b5a1b8de446c95cd14e17985493d.HD-1080p-2.5Mbps-32585164.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -64,6 +90,7 @@
     }
   },
   "order": [
+    "video_X7ttGn",
     "faq"
   ]
 }
