@@ -18,10 +18,29 @@
             "text": "Unleash Your Inner Confidence with HeyShape",
             "heading_tag": "h1"
           }
+        },
+        "richtext_YzK4pJ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Experience the Magic of Comfort, Support, and Style</p>"
+          }
+        },
+        "button_bfftH3": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "SHOP NOW",
+            "url": "shopify://products/back-smoothing-push-up-bra",
+            "background": "#4e215d",
+            "text_color": "#ffffff"
+          }
         }
       },
       "block_order": [
-        "heading_PWpzPb"
+        "heading_PWpzPb",
+        "richtext_YzK4pJ",
+        "button_bfftH3"
       ],
       "settings": {
         "full_width": true,
