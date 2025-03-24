@@ -33,9 +33,7 @@
         "message",
         "message_4y8fTU"
       ],
-      "custom_css": [
-        ".announcement-bar__item .bold {font-weight: 500 !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
