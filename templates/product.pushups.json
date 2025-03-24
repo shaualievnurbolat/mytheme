@@ -259,6 +259,68 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "testimonials_8Nq8iU": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_HfNnhG": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f_1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lauren T.",
+            "title": "",
+            "content": "<p>\"Truthfully this is the most comfortable bra I've ever worn! I am soo glad I found this bra. It's so comfy, supportive but light and soft. Looks great under t-shirts as well!!\"</p>"
+          }
+        },
+        "testimonial_4UXGqW": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/6xrqcsYnE_1_1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jessica W.",
+            "title": "",
+            "content": "<p>\"This bra is AMAZING. I love the wide back as it smooths out any back fat, the straps are very comfortable, and it lifts. love it\"</p>"
+          }
+        },
+        "testimonial_QLCqEq": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1_1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Karen A.",
+            "title": "",
+            "content": "<p>\"I have sensitive skin and have a hard time finding comfortable bras. This fits like a dream. The wider back strap makes a huge different in smoothing my back and the straps don’t cut in nor do they slide down! Perfect light padding/lining. Definitely recommend\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_HfNnhG",
+        "testimonial_4UXGqW",
+        "testimonial_QLCqEq"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Honest Reviews about the HeyShape Bra",
+        "content": "<p>More than <strong>62,145+</strong> women love our bra, rating it <strong>4.7/5 </strong>for its blend of comfort and lift.</p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "scrolling_text_MjXXWT": {
       "type": "scrolling-text",
       "settings": {
@@ -376,7 +438,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "",
@@ -456,6 +518,7 @@
     "main",
     "multi_column_aNLdCY",
     "before_after_image_HKMWdU",
+    "testimonials_8Nq8iU",
     "scrolling_text_MjXXWT",
     "media_with_text_cVcQLQ",
     "multi_column_dUqm7N",
