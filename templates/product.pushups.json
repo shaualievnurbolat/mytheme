@@ -448,6 +448,41 @@
         "text_color": ""
       }
     },
+    "impact_text_xyJK6K": {
+      "type": "impact-text",
+      "blocks": {
+        "item_yNkqnq": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Satisfaction Guarantee",
+            "content": "",
+            "button_text": "Claim Off",
+            "button_url": "shopify://products/back-smoothing-push-up-bra",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_yNkqnq"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1.5,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(292deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 100%)",
+        "text_color": "",
+        "button_background": "#4e215d",
+        "button_text_color": ""
+      }
+    },
     "multi_column_9iwEBt": {
       "type": "multi-column",
       "blocks": {
@@ -522,6 +557,7 @@
     "scrolling_text_MjXXWT",
     "media_with_text_cVcQLQ",
     "multi_column_dUqm7N",
+    "impact_text_xyJK6K",
     "multi_column_9iwEBt",
     "1742469418bdbf722a"
   ]
