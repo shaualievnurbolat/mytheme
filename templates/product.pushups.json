@@ -146,7 +146,7 @@
         "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
-        "desktop_media_layout": "grid_highlight",
+        "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
@@ -201,26 +201,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_R6wX88": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/55ff5cd64eca4a629259666a7529697f.HD-1080p-2.5Mbps-40358212.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_NEtKbG",
         "item_kmmkN9",
-        "item_Kw7F8w",
-        "item_R6wX88"
+        "item_Kw7F8w"
       ],
       "settings": {
         "full_width": true,
