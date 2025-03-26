@@ -61,7 +61,11 @@ Supported variables
         </div>
       </gift-card-recipient>
     {%- endif -%}
-
+    <div class="product-info__liquid">
+        <div style="text-align: center;">
+          <span style="font-weight: bold;">ONLY $25.99 UNTIL MIDNIGHT</span>
+        </div>
+    </div>
     <buy-buttons class="buy-buttons {% if show_payment_button %}buy-buttons--multiple{% endif %}" template="{{ product.template_suffix | escape }}" form="{{ form_id }}">
       {%- render 'button', content: button_content, type: 'submit', size: button_size, disabled: button_disabled, secondary: show_payment_button, subdued: button_disabled, background: atc_button_background, text_color: atc_button_text_color -%}
 
