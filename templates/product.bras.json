@@ -207,6 +207,30 @@
         "text_color": ""
       }
     },
+    "before_after_image_aqWLUX": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "The HeyShape EffectDrag",
+        "content": "",
+        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
+        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "1743677715f12ed169": {
       "type": "apps",
       "blocks": {
@@ -243,6 +267,7 @@
   "order": [
     "main",
     "multi_column_JfHdm6",
+    "before_after_image_aqWLUX",
     "1743677715f12ed169"
   ]
 }
