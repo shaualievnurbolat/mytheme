@@ -406,6 +406,21 @@
         "text_color": ""
       }
     },
+    "scrolling_text_KgGzFb": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Easy Returns | 2000+ 5 Star Reviews",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "1743677715f12ed169": {
       "type": "apps",
       "blocks": {
@@ -446,6 +461,7 @@
     "testimonials_LyKqAX",
     "media_with_text_jpencr",
     "multi_column_P8RAcQ",
+    "scrolling_text_KgGzFb",
     "1743677715f12ed169"
   ]
 }
