@@ -231,6 +231,65 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "testimonials_LyKqAX": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_hCfL4q": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_A93a3Q": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_zijJWF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_hCfL4q",
+        "testimonial_A93a3Q",
+        "testimonial_zijJWF"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Honest Reviews about the HeyShape Bra",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "1743677715f12ed169": {
       "type": "apps",
       "blocks": {
@@ -268,6 +327,7 @@
     "main",
     "multi_column_JfHdm6",
     "before_after_image_aqWLUX",
+    "testimonials_LyKqAX",
     "1743677715f12ed169"
   ]
 }
