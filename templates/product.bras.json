@@ -146,6 +146,67 @@
         "input_text_color": ""
       }
     },
+    "multi_column_JfHdm6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_rkAmkh": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/c1ca61af23e04338ac47e699aa0728cf.HD-1080p-2.5Mbps-36904647 (1).mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NzkWGN": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/8c22801e4ad84de98d63914f6ec4b7ba.HD-1080p-3.3Mbps-41590647 (1).mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_p3KPx3": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/f8f68819a23947e5989b4eb2ae18d78b.HD-1080p-2.5Mbps-43387599.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_rkAmkh",
+        "item_NzkWGN",
+        "item_p3KPx3"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Transformations with HeyShape: Real Stories",
+        "content": "<p>Discover the journey of style and confidence with our bras, as told by over <strong>100.000+ satisfied customers.</strong></p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1743677715f12ed169": {
       "type": "apps",
       "blocks": {
@@ -181,6 +242,7 @@
   },
   "order": [
     "main",
+    "multi_column_JfHdm6",
     "1743677715f12ed169"
   ]
 }
