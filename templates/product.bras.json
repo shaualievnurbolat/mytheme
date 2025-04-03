@@ -389,6 +389,9 @@
         "item_mmbaxm",
         "item_nQVLTR"
       ],
+      "custom_css": [
+        ".multi-column__item img {width: 100px; margin: 0 auto;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
