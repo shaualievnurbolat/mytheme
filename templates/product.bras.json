@@ -237,34 +237,37 @@
         "testimonial_hCfL4q": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Lauren T.",
+            "title": "",
+            "content": "<p>\"Truthfully this is the most comfortable bra I've ever worn! I am soo glad I found this bra. It's so comfy, supportive but light and soft. Looks great under t-shirts as well!!\"</p>"
           }
         },
         "testimonial_A93a3Q": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/6xrqcsYnE_1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Jessica W.",
+            "title": "",
+            "content": "<p>\"This bra is AMAZING. I love the wide back as it smooths out any back fat, the straps are very comfortable, and it lifts. love it\"</p>"
           }
         },
         "testimonial_zijJWF": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "",
+            "content": "<p>\"I have sensitive skin and have a hard time finding comfortable bras. This fits like a dream. The wider back strap makes a huge different in smoothing my back and the straps don’t cut in nor do they slide down! Perfect light padding/lining. Definitely recommend\"</p>"
           }
         }
       },
@@ -278,7 +281,7 @@
         "stack_testimonials": false,
         "subheading": "",
         "title": "Honest Reviews about the HeyShape Bra",
-        "content": "",
+        "content": "<p>More than <strong>62,145+</strong> women love our bra, rating it <strong>4.7/5 </strong>for its blend of comfort and lift.</p>",
         "link_url": "",
         "link_text": "",
         "background": "",
@@ -288,6 +291,115 @@
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
+      }
+    },
+    "media_with_text_jpencr": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_MR3axg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/shapedly_hassliche2.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "What Makes Our Products So Unique?",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MR3axg"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "multi_column_P8RAcQ": {
+      "type": "multi-column",
+      "blocks": {
+        "item_zJ7gi7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/360-Snatch-3.gif",
+            "column_size": "3",
+            "title": "360° Shaped",
+            "heading_tag": "h4",
+            "content": "<p>Shapedlys Fabric follows the shape of your body, giving the garments comfort and freedom of movement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_retMfa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Incredibly-Soft-3.gif",
+            "column_size": "3",
+            "title": "Incredibly Soft",
+            "heading_tag": "h4",
+            "content": "<p>Our fabrics are meticulously designed for ultra-sensitive skin, ensuring maximum comfort and preventing irritation.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mmbaxm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Breathable-3.gif",
+            "column_size": "3",
+            "title": "Ultra Breathable",
+            "heading_tag": "h4",
+            "content": "<p>Our clothing effectively wicks away sweat, keeping you dry and comfortable all day long.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nQVLTR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Keep-It-Cool-3.gif",
+            "column_size": "3",
+            "title": "Keep It Cool",
+            "heading_tag": "h4",
+            "content": "<p>Our products are crafted to overcome the performance challenges found in other activewear.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_zJ7gi7",
+        "item_retMfa",
+        "item_mmbaxm",
+        "item_nQVLTR"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "1743677715f12ed169": {
@@ -328,6 +440,8 @@
     "multi_column_JfHdm6",
     "before_after_image_aqWLUX",
     "testimonials_LyKqAX",
+    "media_with_text_jpencr",
+    "multi_column_P8RAcQ",
     "1743677715f12ed169"
   ]
 }
