@@ -17,21 +17,13 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "FREE RETURNS AND EXCHANGES",
-            "url": ""
-          }
-        },
-        "message_4y8fTU": {
-          "type": "message",
-          "settings": {
-            "text": "SPRING SALE: UP TO 60% OFF!",
+            "text": "FREE SHIPPING AND FREE RETURNS",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_4y8fTU"
+        "message"
       ],
       "custom_css": [],
       "settings": {
@@ -49,7 +41,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Page-1.svg",
         "logo_max_width": 120,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
