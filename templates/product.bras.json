@@ -108,6 +108,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_GegDPR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/payment.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_VeFnH6": {
           "type": "liquid",
           "settings": {
@@ -128,6 +136,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "image_GegDPR",
         "liquid_VeFnH6"
       ],
       "custom_css": [
