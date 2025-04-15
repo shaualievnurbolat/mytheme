@@ -51,6 +51,12 @@
             "heading_tag": "h2"
           }
         },
+        "text_gMEEQh": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>NEW: 💖 2024 Rated Shaping & Support Breakthrough</strong></p>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -107,6 +113,7 @@
         "liquid_cPwQ4F",
         "loox_reviews_loox_rating_PLc9aW",
         "title",
+        "text_gMEEQh",
         "badges",
         "price",
         "rating",
@@ -115,6 +122,9 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
+      ],
+      "custom_css": [
+        ".badge--on-sale {background: green !important;}"
       ],
       "settings": {
         "full_width": true,
