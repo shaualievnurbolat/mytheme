@@ -12,6 +12,21 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "loox_reviews_loox_rating_PLc9aW": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "4.7/5 (1564+ Happy Customers)",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -72,9 +87,16 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_kx3pd9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"trustpilot-container\">\n  <div class=\"trustpilot-text\">\"Amazing\"</div>\n\n  <img\n    class=\"trustpilot-image\"\n    src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwTrpqlDxrYZ0pXL4aXXL4azowSSvjMZM2g&s\"\n    alt=\"Trustpilot Image\"\n  />\n\n  <div class=\"trustpilot-rating\">Rated 4.4/5 on</div>\n\n  <img\n    class=\"trustpilot-logo\"\n    src=\"https://cdn.shopify.com/s/files/1/0798/4267/2987/files/trustpilot-logo-sml_bf402230-0d05-4609-a750-c310e4720da2.png?v=1733179329\"\n    alt=\"Trustpilot Image\"\n  />\n</div>\n\n<style>\n          .trustpilot-container {\n              display: flex;\n              align-items: center;\n              background-color: #e9fff9;\n              border: 1px solid #d4edda;\n              border-radius: 8px;\n              padding: 2px 10px;\n\n              width: 100%;\n  border: 1px dashed #898686;\n  gap: 8px;\n  justify-content: center;\n          }\n\n  .trustpilot-image{\n  width: 60px;\n  }\n  .trustpilot-logo{\n  width: 70px;\n  }\n  .trustpilot-text{\n  font-size: 13px;\n  font-weight: 600;\n  }\n  .trustpilot-rating{\n  font-size: 10px;\n  font-weight: 500;\n  color: #000;\n  }\n</style>"
+          }
         }
       },
       "block_order": [
+        "loox_reviews_loox_rating_PLc9aW",
         "title",
         "badges",
         "price",
@@ -84,7 +106,8 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "liquid_kx3pd9"
       ],
       "settings": {
         "full_width": true,
