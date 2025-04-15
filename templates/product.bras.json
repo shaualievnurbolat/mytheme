@@ -124,7 +124,9 @@
         "buy_buttons"
       ],
       "custom_css": [
-        ".badge--on-sale {background: green !important;}"
+        ".badge--on-sale {background: green !important;}",
+        ".product-info__text {margin-top: 0; font-size: 14px;}",
+        " .product-info__description .prose p {margin: 7px 0;}"
       ],
       "settings": {
         "full_width": true,
