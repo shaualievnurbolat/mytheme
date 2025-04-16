@@ -433,6 +433,9 @@
         "item_9GrX3q",
         "item_YxrgcP"
       ],
+      "custom_css": [
+        ".multi-column__item img {width: 100px; margin: 0 auto;}"
+      ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
