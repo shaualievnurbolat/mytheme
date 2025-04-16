@@ -262,6 +262,191 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "before_after_image_XcAMWA": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "The Shapedly EffectDrag",
+        "content": "",
+        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
+        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "testimonials_cYT4Rp": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_WXPqkF": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lauren T.",
+            "title": "",
+            "content": "<p>\"Truthfully this is the most comfortable bra I've ever worn! I am soo glad I found this bra. It's so comfy, supportive but light and soft. Looks great under t-shirts as well!!\"</p>"
+          }
+        },
+        "testimonial_PcCeXn": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/6xrqcsYnE_1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jessica W.",
+            "title": "",
+            "content": "<p>\"This bra is AMAZING. I love the wide back as it smooths out any back fat, the straps are very comfortable, and it lifts. love it\"</p>"
+          }
+        },
+        "testimonial_XPzFdc": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Karen A.",
+            "title": "",
+            "content": "<p>\"I have sensitive skin and have a hard time finding comfortable bras. This fits like a dream. The wider back strap makes a huge different in smoothing my back and the straps don’t cut in nor do they slide down! Perfect light padding/lining. Definitely recommend\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_WXPqkF",
+        "testimonial_PcCeXn",
+        "testimonial_XPzFdc"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Honest Reviews about the Shapedly Bra",
+        "content": "<p>More than <strong>62,145+</strong> women love our bra, rating it <strong>4.7/5 </strong>for its blend of comfort and lift.</p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "media_with_text_9PAd9e": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_YQqW68": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/shapedly_package_3.webp",
+            "media_width": 60,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "What Makes Our Products So Unique?",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YQqW68"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "multi_column_hrJPGF": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kFLgAU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/360-Snatch-3.gif",
+            "column_size": "3",
+            "title": "360° Shaped",
+            "heading_tag": "h4",
+            "content": "<p>Shapedlys Fabric follows the shape of your body, giving the garments comfort and freedom of movement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9GrX3q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Incredibly-Soft-3.gif",
+            "column_size": "3",
+            "title": "Incredibly Soft",
+            "heading_tag": "h4",
+            "content": "<p>Our fabrics are meticulously designed for ultra-sensitive skin, ensuring maximum comfort and preventing irritation.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YxrgcP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Breathable-3.gif",
+            "column_size": "3",
+            "title": "Ultra Breathable",
+            "heading_tag": "h4",
+            "content": "<p>Our clothing effectively wicks away sweat, keeping you dry and comfortable all day long.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kFLgAU",
+        "item_9GrX3q",
+        "item_YxrgcP"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1744714422dfffb400": {
       "type": "apps",
       "blocks": {
@@ -300,6 +485,10 @@
     "main",
     "rich_text_3QkbNn",
     "17447952273a146a2b",
+    "before_after_image_XcAMWA",
+    "testimonials_cYT4Rp",
+    "media_with_text_9PAd9e",
+    "multi_column_hrJPGF",
     "1744714422dfffb400"
   ]
 }
