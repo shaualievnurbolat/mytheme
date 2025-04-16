@@ -160,7 +160,8 @@
       "custom_css": [
         ".badge--on-sale {background: green !important;}",
         ".product-info__text {margin-top: 0; font-size: 14px;}",
-        ".product-info__description .prose p {margin: 7px 0;}"
+        ".product-info__description .prose p {margin: 7px 0;}",
+        ".section-blends {padding-bottom: 0 !important;}"
       ],
       "settings": {
         "full_width": true,
@@ -178,6 +179,39 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_3QkbNn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PYL3Yg": {
+          "type": "heading",
+          "settings": {
+            "text": "Transformations with Shapedly: Real Stories",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_dnhqJ4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discover the journey of style and confidence with our bras, as told by over <strong>100.000+ satisfied customers.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PYL3Yg",
+        "richtext_dnhqJ4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "17447952273a146a2b": {
@@ -203,13 +237,16 @@
             "product_card_btn_actn": "product_details",
             "product_card_btn_text": "Shop",
             "product_card_btn_background_color": "#000000",
-            "product_card_btn_text_color": "#FFFFFF",
+            "product_card_btn_text_color": "#ffffff",
             "product_card_btn_border_radius": 24
           }
         }
       },
       "block_order": [
         "spark_spotlight_carousal_Gdizde"
+      ],
+      "custom_css": [
+        ".spark-tw-self-center {display: none !important;}"
       ],
       "settings": {
         "full_width": true,
@@ -261,6 +298,7 @@
   "order": [
     "custom_html_pDHaXr",
     "main",
+    "rich_text_3QkbNn",
     "17447952273a146a2b",
     "1744714422dfffb400"
   ]
