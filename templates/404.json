@@ -1,1 +1,130 @@
-{"sections":{"main":{"type":"main-not-found","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
+    },
+    "featured_product_GjzaBb": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_Fgbeae": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_tjrLLx": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_WMht4U": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_fVbeiH": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_TWmWFf": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_CqKfBG": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_8GJzbm": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_U3Ea6j": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "kaching_bundles_app_block_6CXkyy": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "quantity_selector_9rH7it": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_ztz8qq": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_p6kUpL": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_Fgbeae",
+        "title_tjrLLx",
+        "badges_WMht4U",
+        "price_fVbeiH",
+        "rating_TWmWFf",
+        "separator_CqKfBG",
+        "description_8GJzbm",
+        "variant_picker_U3Ea6j",
+        "kaching_bundles_app_block_6CXkyy",
+        "quantity_selector_9rH7it",
+        "buy_buttons_ztz8qq",
+        "pickup_availability_p6kUpL"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "back-smoothing-push-up-bra",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured_product_GjzaBb"
+  ]
+}
