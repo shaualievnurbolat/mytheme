@@ -14,117 +14,51 @@
       "disabled": true,
       "settings": {}
     },
-    "featured_product_GjzaBb": {
-      "type": "featured-product",
+    "slideshow_QdQij9": {
+      "type": "slideshow",
       "blocks": {
-        "vendor_Fgbeae": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_tjrLLx": {
-          "type": "title",
+        "image_Wgx9fd": {
+          "type": "image",
           "settings": {
-            "heading_tag": "h2"
+            "image": "shopify://shop_images/Shapedly_Web_Banner.webp",
+            "mobile_image": "shopify://shop_images/Shapedly_Mobile_Banner_4598ecfc-bb8e-4175-9122-afa8dc1ae6d9.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify://products/back-smoothing-push-up-bra",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
           }
-        },
-        "badges_WMht4U": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_fVbeiH": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_TWmWFf": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_CqKfBG": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_8GJzbm": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_U3Ea6j": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "kaching_bundles_app_block_6CXkyy": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "quantity_selector_9rH7it": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_ztz8qq": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_p6kUpL": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_Fgbeae",
-        "title_tjrLLx",
-        "badges_WMht4U",
-        "price_fVbeiH",
-        "rating_TWmWFf",
-        "separator_CqKfBG",
-        "description_8GJzbm",
-        "variant_picker_U3Ea6j",
-        "kaching_bundles_app_block_6CXkyy",
-        "quantity_selector_9rH7it",
-        "buy_buttons_ztz8qq",
-        "pickup_availability_p6kUpL"
+        "image_Wgx9fd"
       ],
-      "name": "Featured product",
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "product": "back-smoothing-push-up-bra",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "allow_transparent_header": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     }
   },
   "order": [
     "main",
-    "featured_product_GjzaBb"
+    "slideshow_QdQij9"
   ]
 }
