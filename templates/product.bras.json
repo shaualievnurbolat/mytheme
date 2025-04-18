@@ -358,6 +358,44 @@
         "testimonial_card_text_color": ""
       }
     },
+    "1744971630aa9ed2e8": {
+      "type": "apps",
+      "blocks": {
+        "swipeup_stories_feed_CaBwfp": {
+          "type": "shopify://apps/swipeup/blocks/stories-feed/7b6d7967-af4c-461a-9edb-73155220c3a4",
+          "settings": {
+            "stories_feed_align": "center",
+            "viewer_default_muted": true,
+            "product_details_enabled": true,
+            "show_discount_badge": true,
+            "viewer_autoplay_next": false,
+            "background_color": "transparent",
+            "background_gradient": "",
+            "border_color": "linear-gradient(225deg, rgba(138, 59, 238, 1), rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
+            "shop_button_text": "Shop",
+            "mute_text": "Mute",
+            "unmute_text": "Unmute",
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "swipeup_stories_feed_CaBwfp"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "media_with_text_9PAd9e": {
       "type": "media-with-text",
       "blocks": {
@@ -499,6 +537,7 @@
     "17447952273a146a2b",
     "before_after_image_XcAMWA",
     "testimonials_cYT4Rp",
+    "1744971630aa9ed2e8",
     "media_with_text_9PAd9e",
     "multi_column_hrJPGF",
     "1744714422dfffb400"
