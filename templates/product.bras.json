@@ -235,7 +235,7 @@
         "swipeup_reels_feed_7hGBXA": {
           "type": "shopify://apps/swipeup/blocks/reels-feed/7b6d7967-af4c-461a-9edb-73155220c3a4",
           "settings": {
-            "background_color": "transparent",
+            "background_color": "rgba(0,0,0,0)",
             "background_gradient": "",
             "viewer_default_muted": true,
             "product_details_enabled": true,
@@ -250,10 +250,28 @@
             "unmute_text": "Unmute",
             "custom_css": ""
           }
+        },
+        "swipeup_stories_feed_kmajD4": {
+          "type": "shopify://apps/swipeup/blocks/stories-feed/7b6d7967-af4c-461a-9edb-73155220c3a4",
+          "settings": {
+            "stories_feed_align": "center",
+            "viewer_default_muted": true,
+            "product_details_enabled": true,
+            "show_discount_badge": true,
+            "viewer_autoplay_next": false,
+            "background_color": "transparent",
+            "background_gradient": "",
+            "border_color": "linear-gradient(225deg, rgba(138, 59, 238, 1), rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
+            "shop_button_text": "Shop",
+            "mute_text": "Mute",
+            "unmute_text": "Unmute",
+            "custom_css": ""
+          }
         }
       },
       "block_order": [
-        "swipeup_reels_feed_7hGBXA"
+        "swipeup_reels_feed_7hGBXA",
+        "swipeup_stories_feed_kmajD4"
       ],
       "custom_css": [
         ".spark-tw-self-center {display: none !important;}"
@@ -360,28 +378,6 @@
     },
     "1744971630aa9ed2e8": {
       "type": "apps",
-      "blocks": {
-        "swipeup_stories_feed_CaBwfp": {
-          "type": "shopify://apps/swipeup/blocks/stories-feed/7b6d7967-af4c-461a-9edb-73155220c3a4",
-          "settings": {
-            "stories_feed_align": "center",
-            "viewer_default_muted": true,
-            "product_details_enabled": true,
-            "show_discount_badge": true,
-            "viewer_autoplay_next": false,
-            "background_color": "transparent",
-            "background_gradient": "",
-            "border_color": "linear-gradient(225deg, rgba(138, 59, 238, 1), rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
-            "shop_button_text": "Shop",
-            "mute_text": "Mute",
-            "unmute_text": "Unmute",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "swipeup_stories_feed_CaBwfp"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
