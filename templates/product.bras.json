@@ -24,21 +24,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "loox_reviews_loox_rating_PLc9aW": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "contentSize": 14,
-            "pattern": "4.7/5 (1564+ Happy Customers)",
-            "hideText": false,
-            "alignment": "",
-            "layout": "",
-            "textColor": "",
-            "starColor": "",
-            "showAllReviews": false,
-            "looxOpenFloatingWidget": false,
-            "emptyRatingWidget": false
-          }
-        },
         "liquid_cPwQ4F": {
           "type": "liquid",
           "settings": {
@@ -111,7 +96,6 @@
         "image_GegDPR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/payment.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -152,7 +136,7 @@
         "image_HqUKc4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1_057fe61e-28b2-49d3-9fc3-c0fde6b67cb1_1024x1024_1.webp",
+            "image": "shopify://shop_images/1_1024x1024_8a7cdfac-1c93-4d45-bc37-0bf27e51d6e7.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -160,14 +144,13 @@
         "image_NLKHXF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2_1024x1024_49e73572-4377-48a6-8683-1351e0e76f68.webp",
+            "image": "shopify://shop_images/2_1024x1024_dcbd9f9f-0d27-4cb2-a943-e55f3ff91a50.webp",
             "alignment": "center",
             "max_width": 500
           }
         }
       },
       "block_order": [
-        "loox_reviews_loox_rating_PLc9aW",
         "liquid_cPwQ4F",
         "title",
         "text_gMEEQh",
@@ -245,48 +228,6 @@
     },
     "17447952273a146a2b": {
       "type": "apps",
-      "blocks": {
-        "swipeup_reels_feed_7hGBXA": {
-          "type": "shopify://apps/swipeup/blocks/reels-feed/7b6d7967-af4c-461a-9edb-73155220c3a4",
-          "settings": {
-            "background_color": "rgba(0,0,0,0)",
-            "background_gradient": "",
-            "viewer_default_muted": true,
-            "product_details_enabled": true,
-            "show_discount_badge": true,
-            "show_product_info": true,
-            "viewer_autoplay_next": false,
-            "autoplay_all": false,
-            "show_playbutton": true,
-            "hide_decimals": false,
-            "shop_button_text": "Shop",
-            "mute_text": "Mute",
-            "unmute_text": "Unmute",
-            "custom_css": ""
-          }
-        },
-        "swipeup_stories_feed_kmajD4": {
-          "type": "shopify://apps/swipeup/blocks/stories-feed/7b6d7967-af4c-461a-9edb-73155220c3a4",
-          "settings": {
-            "stories_feed_align": "center",
-            "viewer_default_muted": true,
-            "product_details_enabled": true,
-            "show_discount_badge": true,
-            "viewer_autoplay_next": false,
-            "background_color": "rgba(0,0,0,0)",
-            "background_gradient": "",
-            "border_color": "linear-gradient(225deg, rgba(138, 59, 238, 1), rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
-            "shop_button_text": "Shop",
-            "mute_text": "Mute",
-            "unmute_text": "Unmute",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "swipeup_reels_feed_7hGBXA",
-        "swipeup_stories_feed_kmajD4"
-      ],
       "custom_css": [
         ".spark-tw-self-center {display: none !important;}"
       ],
@@ -311,8 +252,6 @@
         "subheading": "",
         "title": "The Shapedly EffectDrag",
         "content": "",
-        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
-        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -334,7 +273,6 @@
         "testimonial_WXPqkF": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -346,7 +284,6 @@
         "testimonial_PcCeXn": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/6xrqcsYnE_1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -358,7 +295,6 @@
         "testimonial_XPzFdc": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -412,7 +348,6 @@
         "image_YQqW68": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shapedly_package_3.webp",
             "media_width": 60,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -449,7 +384,6 @@
         "item_kFLgAU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/360-Snatch-3.gif",
             "column_size": "3",
             "title": "360° Shaped",
             "heading_tag": "h4",
@@ -462,7 +396,6 @@
         "item_9GrX3q": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Incredibly-Soft-3.gif",
             "column_size": "3",
             "title": "Incredibly Soft",
             "heading_tag": "h4",
@@ -475,7 +408,6 @@
         "item_YxrgcP": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Breathable-3.gif",
             "column_size": "3",
             "title": "Ultra Breathable",
             "heading_tag": "h4",
@@ -509,22 +441,6 @@
     },
     "1744714422dfffb400": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_TMWb9E": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_TMWb9E"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
