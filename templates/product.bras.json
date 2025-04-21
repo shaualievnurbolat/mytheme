@@ -226,6 +226,41 @@
         "text_color": ""
       }
     },
+    "17452329134693cf81": {
+      "type": "apps",
+      "blocks": {
+        "storista_hero_rikQnh": {
+          "type": "shopify://apps/storista/blocks/hero/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
+          "settings": {
+            "widget_id": "jtlSIL86uFWF4ht",
+            "content_position": "bottom-center",
+            "heading": "",
+            "heading_css": "",
+            "text": "",
+            "text_css": "",
+            "button_label": "",
+            "button_link": "",
+            "button_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "storista_hero_rikQnh"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "17447952273a146a2b": {
       "type": "apps",
       "custom_css": [
@@ -460,6 +495,7 @@
     "custom_html_pDHaXr",
     "main",
     "rich_text_3QkbNn",
+    "17452329134693cf81",
     "17447952273a146a2b",
     "before_after_image_XcAMWA",
     "testimonials_cYT4Rp",
