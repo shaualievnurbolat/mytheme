@@ -245,23 +245,38 @@
     "17452329134693cf81": {
       "type": "apps",
       "blocks": {
-        "storista_hero_rikQnh": {
-          "type": "shopify://apps/storista/blocks/hero/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
+        "storista_stories_tdfbWb": {
+          "type": "shopify://apps/storista/blocks/stories/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
           "settings": {
-            "widget_id": "jtlSIL86uFWF4ht",
-            "content_position": "bottom-center",
+            "stories_widget_id": "jtlSIL86uFWF4ht",
             "heading": "",
+            "heading_tag": "h2",
+            "heading_position": "center",
             "heading_css": "",
-            "text": "",
-            "text_css": "",
-            "button_label": "",
-            "button_link": "",
-            "button_css": ""
+            "subtitle": "",
+            "subtitle_tag": "h5",
+            "subtitle_position": "center",
+            "suibtitle_css": ""
+          }
+        },
+        "storista_stories_aWYH43": {
+          "type": "shopify://apps/storista/blocks/stories/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
+          "settings": {
+            "stories_widget_id": "",
+            "heading": "",
+            "heading_tag": "h2",
+            "heading_position": "center",
+            "heading_css": "",
+            "subtitle": "",
+            "subtitle_tag": "h5",
+            "subtitle_position": "center",
+            "suibtitle_css": ""
           }
         }
       },
       "block_order": [
-        "storista_hero_rikQnh"
+        "storista_stories_tdfbWb",
+        "storista_stories_aWYH43"
       ],
       "settings": {
         "full_width": true,
