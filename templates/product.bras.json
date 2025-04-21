@@ -229,43 +229,28 @@
     "17452329134693cf81": {
       "type": "apps",
       "blocks": {
-        "storista_stories_KtwGCt": {
-          "type": "shopify://apps/storista/blocks/stories/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
+        "storista_hero_rikQnh": {
+          "type": "shopify://apps/storista/blocks/hero/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
           "settings": {
-            "stories_widget_id": "jtlSIL86uFWF4ht",
+            "widget_id": "jtlSIL86uFWF4ht",
+            "content_position": "bottom-center",
             "heading": "",
-            "heading_tag": "h2",
-            "heading_position": "center",
             "heading_css": "",
-            "subtitle": "",
-            "subtitle_tag": "h5",
-            "subtitle_position": "center",
-            "suibtitle_css": ""
-          }
-        },
-        "storista_stories_D7Xi7f": {
-          "type": "shopify://apps/storista/blocks/stories/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
-          "settings": {
-            "stories_widget_id": "8iASynXC9BE5nPx",
-            "heading": "",
-            "heading_tag": "h2",
-            "heading_position": "center",
-            "heading_css": "",
-            "subtitle": "",
-            "subtitle_tag": "h5",
-            "subtitle_position": "center",
-            "suibtitle_css": ""
+            "text": "",
+            "text_css": "",
+            "button_label": "",
+            "button_link": "",
+            "button_css": ""
           }
         }
       },
       "block_order": [
-        "storista_stories_KtwGCt",
-        "storista_stories_D7Xi7f"
+        "storista_hero_rikQnh"
       ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": true,
+        "remove_horizontal_spacing": false,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -302,6 +287,8 @@
         "subheading": "",
         "title": "The Shapedly EffectDrag",
         "content": "",
+        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
+        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -323,6 +310,7 @@
         "testimonial_WXPqkF": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/6xrqcsYnE_1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -334,6 +322,7 @@
         "testimonial_PcCeXn": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -345,6 +334,7 @@
         "testimonial_XPzFdc": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -398,6 +388,7 @@
         "image_YQqW68": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/shapedly_package_3.webp",
             "media_width": 60,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -434,6 +425,7 @@
         "item_kFLgAU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/360-Snatch-3.webp",
             "column_size": "3",
             "title": "360° Shaped",
             "heading_tag": "h4",
@@ -446,6 +438,7 @@
         "item_9GrX3q": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Incredibly-Soft-3.webp",
             "column_size": "3",
             "title": "Incredibly Soft",
             "heading_tag": "h4",
@@ -458,6 +451,7 @@
         "item_YxrgcP": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Breathable-3.webp",
             "column_size": "3",
             "title": "Ultra Breathable",
             "heading_tag": "h4",
