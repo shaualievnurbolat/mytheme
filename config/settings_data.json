@@ -50,6 +50,13 @@
         "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
         "disabled": false,
         "settings": {}
+      },
+      "18046205154587469406": {
+        "type": "shopify://apps/storista/blocks/popup/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
+        "disabled": false,
+        "settings": {
+          "widget_id": ""
+        }
       }
     }
   },
