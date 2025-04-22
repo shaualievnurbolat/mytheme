@@ -115,17 +115,10 @@
             "max_width": 500
           }
         },
-        "offer_cinzTF": {
-          "type": "offer",
+        "liquid_N9hE8c": {
+          "type": "liquid",
           "settings": {
-            "text_alignment": "start",
-            "icon_position": "aligned",
-            "icon": "none",
-            "icon_width": 24,
-            "title": "",
-            "content": "<p><strong>✅ 100% Guarantee: Don’t like it? Get a full refund and keep the bra.</strong></p>",
-            "background": "#b597bd",
-            "text_color": "#4e215d"
+            "liquid": "<style>\n.guarantee-wrapper {\n  background-color: #4E215D; /* фиолетовый фон */\n  padding: 20px 20px;\n  display: flex;\n  justify-content: center;\n}\n\n.guarantee-box {\n  background-color: #ffffff;\n  padding: 10px 15px;\n  border-radius: 20px;\n  border: 3px dotted white;\n  outline: 3px dotted #ffffff;\n  outline-offset: -10px;\n  max-width: 100%;\n  text-align: center;\n  color: #000000;\n  font-size: 16px;\n  font-weight: bold;\n  line-height: 1.4;\n  box-sizing: border-box;\n}\n\n.guarantee-box .emoji {\n  margin-right: 8px;\n}\n\n</style>\n\n<div class=\"guarantee-wrapper\">\n  <div class=\"guarantee-box\">\n    <span class=\"emoji\">✅ </span>\n    <strong>Love it or it’s free:</strong> Not completely satisfied? Get a full refund and keep the bra — no questions asked.\n  </div>\n</div>"
           }
         },
         "liquid_VeFnH6": {
@@ -179,7 +172,7 @@
         "quantity_selector",
         "buy_buttons",
         "image_GegDPR",
-        "offer_cinzTF",
+        "liquid_N9hE8c",
         "liquid_VeFnH6",
         "collapsible_text_tR4QTQ",
         "collapsible_text_7UecpT",
