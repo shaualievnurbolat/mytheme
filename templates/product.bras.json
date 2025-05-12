@@ -12,26 +12,13 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "loox_reviews_loox_rating_iNwbyL": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "contentSize": 12,
-            "pattern": "4.7/5 (1564+ Happy Customers)",
-            "hideText": false,
-            "alignment": "",
-            "layout": "",
-            "textColor": "#000000",
-            "starColor": "#4e215d",
-            "showAllReviews": false,
-            "looxOpenFloatingWidget": false,
-            "emptyRatingWidget": false
-          }
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
         },
         "title": {
           "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
+          "settings": {}
         },
         "badges": {
           "type": "badges",
@@ -39,15 +26,11 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
+          "settings": {}
         },
         "rating": {
           "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
+          "settings": {}
         },
         "payment_terms": {
           "type": "payment_terms",
@@ -59,20 +42,11 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
@@ -80,54 +54,15 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
+          "settings": {}
         },
-        "liquid_VU3enX": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-info__block-item naBlock\" data-block-id=\"liquid_eHAkiV\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <!-- Start of custom message section -->\n<section class=\"custom-message-section\">\n  <div class=\"message-container\">\n    <p class=\"message-text\">\n      <strong style=\"color: black;\">UPDATE:</strong> We're currently going viral on social media and <span style=\"color: purple; font-weight: bold;\">have very limited stock remaining for our Spring Sale!</span><strong> Take advantage of our incredible 60% off sale. </strong> The more you buy, the more you save!\n    </p>\n  </div>\n</section>\n<!-- End of custom message section -->\n\n<style>\n.custom-message-section {\n  background-color: #;\n  padding: 0px;\n  border-radius: 5px;\n  text-align: left;\n  margin: 20px 0;\n}\n\n.message-container {\n  display: inline-block;\n}\n\n.message-text {\n  font-size: 16px;\n  color: #333;\n}\n</style>\n            </div></div>\n\n<div class=\"product-info__block-item naBlock\" data-block-id=\"liquid_QUNy7c\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"customer-review-section\" style=\"background-color: #f5f5f5; border-radius: 10px; padding: 15px; max-width: 700px; margin: auto; margin-bottom: 1.5em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\">\n  <div style=\"display: flex; align-items: flex-start; gap: 15px;\">\n    <div style=\"flex: 0 0 60px; border-radius: 50%; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0720/9127/1436/files/36e25f59-dafe-4a5c-b9ae-4b82c8e763a0-modified.png?v=1711124384\" style=\"width: 100%; height: auto;\" alt=\"Customer photo\">\n    </div>\n    <div style=\"flex-grow: 1;\">\n      <blockquote style=\"font-style: normal; margin: 0; font-size: 14px;\">\n        \"<span style=\"font-weight: bold;\">Finally a bra that REALLY works for bigger breasts!</span> No back bulges and it's so comfy, I can wear it all day without an issue ✨\"\n        <div style=\"color: #ffa500; font-size: larger;\">★★★★★</div>\n      </blockquote>\n      <div style=\"display: flex; align-items: baseline; margin-top: 0.2em;\">\n        <span style=\"font-weight: bold; font-size: 14px;\">✔ Sophia N.</span>\n        <span style=\"font-size: 12px; font-style: italic; margin-left: 5px;\">(Chicago, USA)</span>\n      </div>\n    </div>\n  </div>\n</div>\n            </div></div>"
-          }
-        },
-        "collapsible_text_zaFBBR": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Description",
-            "content": "<p><strong>It’s the back-smoothing shaping bra you’ve been waiting for.</strong> Its innovative design smooths out your back fat, giving you a gravity-defying lift with ultimate comfort, no matter your size. <strong>Fits true to size</strong></p><p>✌️ 100% Back Smoothing</p><p>⬆️ Gradual lift cup</p><p>🤍 Body hugging fit</p><p>✨ Smooth under tops</p><p><strong>Fabric: </strong>80% Nylon & 20% Spandex</p><p><strong>Lining: </strong>83% Viscose & 17% Polyester</p><p><strong>Wash Care:</strong> Machine Wash. Do not bleach. Lay flat to dry.</p>"
-          }
-        },
-        "collapsible_text_E9TnEY": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Shipping",
-            "content": "<p>We provide <strong>FREE </strong>shipping for orders <strong>over $60 USD</strong></p><p>We offer<strong> fast & tracked shipping </strong>to the <strong>United States, Canada and worldwide.</strong></p><p>All orders are <strong>shipped within a 24-48 hour timeframe.</strong></p>"
-          }
-        },
-        "image_JrBxg8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_1024x1024_64fca8b6-13ba-4cad-8054-1c55e5c785b9.webp",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "image_aPaDh7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2_1024x1024_0b5b48eb-1ae6-4a20-84f8-83f585b2b86a.webp",
-            "alignment": "center",
-            "max_width": 500
-          }
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
         }
       },
       "block_order": [
-        "loox_reviews_loox_rating_iNwbyL",
+        "vendor",
         "title",
         "badges",
         "price",
@@ -137,347 +72,12 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "liquid_VU3enX",
-        "collapsible_text_zaFBBR",
-        "collapsible_text_E9TnEY",
-        "image_JrBxg8",
-        "image_aPaDh7"
+        "buy_buttons"
       ],
-      "settings": {
-        "full_width": true,
-        "show_fixed_add_to_cart": true,
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": false,
-        "enable_video_looping": true,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "multi_column_JfHdm6": {
-      "type": "multi-column",
-      "blocks": {
-        "item_rkAmkh": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/c1ca61af23e04338ac47e699aa0728cf.HD-1080p-2.5Mbps-36904647 (1).mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_NzkWGN": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/8c22801e4ad84de98d63914f6ec4b7ba.HD-1080p-3.3Mbps-41590647 (1).mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_p3KPx3": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/f8f68819a23947e5989b4eb2ae18d78b.HD-1080p-2.5Mbps-43387599.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_rkAmkh",
-        "item_NzkWGN",
-        "item_p3KPx3"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Transformations with HeyShape: Real Stories",
-        "content": "<p>Discover the journey of style and confidence with our bras, as told by over <strong>100.000+ satisfied customers.</strong></p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before_after_image_aqWLUX": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "The HeyShape EffectDrag",
-        "content": "",
-        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
-        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "testimonials_LyKqAX": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_hCfL4q": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Lauren T.",
-            "title": "",
-            "content": "<p>\"Truthfully this is the most comfortable bra I've ever worn! I am soo glad I found this bra. It's so comfy, supportive but light and soft. Looks great under t-shirts as well!!\"</p>"
-          }
-        },
-        "testimonial_A93a3Q": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/6xrqcsYnE_1.webp",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Jessica W.",
-            "title": "",
-            "content": "<p>\"This bra is AMAZING. I love the wide back as it smooths out any back fat, the straps are very comfortable, and it lifts. love it\"</p>"
-          }
-        },
-        "testimonial_zijJWF": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Joshua A.",
-            "title": "",
-            "content": "<p>\"I have sensitive skin and have a hard time finding comfortable bras. This fits like a dream. The wider back strap makes a huge different in smoothing my back and the straps don’t cut in nor do they slide down! Perfect light padding/lining. Definitely recommend\"</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_hCfL4q",
-        "testimonial_A93a3Q",
-        "testimonial_zijJWF"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "",
-        "title": "Honest Reviews about the HeyShape Bra",
-        "content": "<p>More than <strong>62,145+</strong> women love our bra, rating it <strong>4.7/5 </strong>for its blend of comfort and lift.</p>",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
-    "media_with_text_jpencr": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_MR3axg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/shapedly_hassliche2.webp",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "What Makes Our Products So Unique?",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_MR3axg"
-      ],
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "multi_column_P8RAcQ": {
-      "type": "multi-column",
-      "blocks": {
-        "item_zJ7gi7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/360-Snatch-3.gif",
-            "column_size": "3",
-            "title": "360° Shaped",
-            "heading_tag": "h4",
-            "content": "<p>HeyShape Fabric follows the shape of your body, giving the garments comfort and freedom of movement.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_retMfa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Incredibly-Soft-3.gif",
-            "column_size": "3",
-            "title": "Incredibly Soft",
-            "heading_tag": "h4",
-            "content": "<p>Our fabrics are meticulously designed for ultra-sensitive skin, ensuring maximum comfort and preventing irritation.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_mmbaxm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Breathable-3.gif",
-            "column_size": "3",
-            "title": "Ultra Breathable",
-            "heading_tag": "h4",
-            "content": "<p>Our clothing effectively wicks away sweat, keeping you dry and comfortable all day long.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_nQVLTR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Keep-It-Cool-3.gif",
-            "column_size": "3",
-            "title": "Keep It Cool",
-            "heading_tag": "h4",
-            "content": "<p>Our products are crafted to overcome the performance challenges found in other activewear.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_zJ7gi7",
-        "item_retMfa",
-        "item_mmbaxm",
-        "item_nQVLTR"
-      ],
-      "custom_css": [
-        ".multi-column__item img {width: 100px; margin: 0 auto;}",
-        ".section-blends {margin: -60px 0 0 0;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "scrolling_text_KgGzFb": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Easy Returns | 2000+ 5 Star Reviews",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "1743677715f12ed169": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_QaeprB": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_QaeprB"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
+      "settings": {}
     }
   },
   "order": [
-    "main",
-    "multi_column_JfHdm6",
-    "before_after_image_aqWLUX",
-    "testimonials_LyKqAX",
-    "media_with_text_jpencr",
-    "multi_column_P8RAcQ",
-    "scrolling_text_KgGzFb",
-    "1743677715f12ed169"
+    "main"
   ]
 }
