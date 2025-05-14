@@ -30,21 +30,6 @@
             "liquid": "<div class=\"happy-customersV2\">\n    <div class=\"avatarsV2\">\n        <img src=\"https://img.freepik.com/free-photo/stylish-african-american-woman-smiling_23-2148770405.jpg\" alt=\"Customer 1\" class=\"avatarV2\" />\n        <img src=\"https://thumbs.dreamstime.com/b/beautiful-african-american-woman-relaxing-outside-happy-middle-aged-smiling-46298787.jpg\" alt=\"Customer 2\" class=\"avatarV2\" />\n        <img src=\"https://media.istockphoto.com/id/1320651997/photo/young-woman-close-up-isolated-studio-portrait.jpg?s=612x612&w=0&k=20&c=lV6pxz-DknISGT2jjiSvUmSaw0hpMDf-dBpT8HTSAUI=\" alt=\"Customer 3\" class=\"avatarV2\" />\n    </div>\n    <span class=\"textV2\">\n<span style = \"font-weight: 900;\">Michelle</span>\n    <span class=\"verifiedV2\">\n      <img\n        src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png\"\n        alt=\"verified badge\"\n        class=\"verifiedV2\">\n    </span> \n   <span>and <strong>9758</strong> people purchased</span>\n</span>\n</div>\n\n<style>\n    .happy-customersV2 {\n        display: flex;\n        align-items: center;\n        background-color: #ffffff;\n        border-radius: 8px;\n        padding: 5px 15px;\n        font-family: Roboto, sans-serif !important;\n        font-size: 12px;\n        color: #000;\n        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\n    }\n\n    .avatarsV2 {\n        display: flex;\n        margin-right: 10px;\n    }\n\n    .avatarV2 {\n        width: 22px;\n        height: 22px;\n        border-radius: 50%;\n        border: 2px solid white;\n        margin-left: -7px;\n        object-fit: cover;\n    }\n\n.textV2 {\n    font-weight: normal;\n    font-size: 12px;\n    color: #000;\n    line-height: 0px;\n    display: flex;\n    align-items: center;\n    gap: 3px;\n}\n\n    .textV2 strong {\n        font-weight: 800;\n        font-family: Roboto, sans-serif;\n    }\n\n    .verifiedV2 {\n        vertical-align: middle;\n        height: 13px;\n        width: 13px;\n    }\n</style>"
           }
         },
-        "loox_reviews_loox_rating_WfqUMV": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "contentSize": 14,
-            "pattern": "4.7/5 (1264+ Happy Customers)",
-            "hideText": false,
-            "alignment": "",
-            "layout": "",
-            "textColor": "",
-            "starColor": "",
-            "showAllReviews": false,
-            "looxOpenFloatingWidget": false,
-            "emptyRatingWidget": false
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -144,7 +129,6 @@
         "image_HqUKc4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1_1024x1024_8a7cdfac-1c93-4d45-bc37-0bf27e51d6e7.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -152,7 +136,6 @@
         "image_NLKHXF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2_1024x1024_dcbd9f9f-0d27-4cb2-a943-e55f3ff91a50.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -160,7 +143,6 @@
       },
       "block_order": [
         "liquid_cPwQ4F",
-        "loox_reviews_loox_rating_WfqUMV",
         "title",
         "text_gMEEQh",
         "badges",
@@ -237,40 +219,6 @@
     },
     "17452329134693cf81": {
       "type": "apps",
-      "blocks": {
-        "storista_stories_tdfbWb": {
-          "type": "shopify://apps/storista/blocks/stories/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
-          "settings": {
-            "stories_widget_id": "jtlSIL86uFWF4ht",
-            "heading": "",
-            "heading_tag": "h2",
-            "heading_position": "center",
-            "heading_css": "",
-            "subtitle": "",
-            "subtitle_tag": "h5",
-            "subtitle_position": "center",
-            "suibtitle_css": ""
-          }
-        },
-        "storista_stories_aWYH43": {
-          "type": "shopify://apps/storista/blocks/stories/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
-          "settings": {
-            "stories_widget_id": "",
-            "heading": "",
-            "heading_tag": "h2",
-            "heading_position": "center",
-            "heading_css": "",
-            "subtitle": "",
-            "subtitle_tag": "h5",
-            "subtitle_position": "center",
-            "suibtitle_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "storista_stories_tdfbWb",
-        "storista_stories_aWYH43"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -311,8 +259,6 @@
         "subheading": "",
         "title": "The Shapedly EffectDrag",
         "content": "",
-        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
-        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -334,7 +280,6 @@
         "testimonial_WXPqkF": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/6xrqcsYnE_1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -346,7 +291,6 @@
         "testimonial_PcCeXn": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -358,7 +302,6 @@
         "testimonial_XPzFdc": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -412,7 +355,6 @@
         "image_YQqW68": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shapedly_package_3.webp",
             "media_width": 60,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -449,7 +391,6 @@
         "item_kFLgAU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/360-Snatch-3.webp",
             "column_size": "3",
             "title": "360° Shaped",
             "heading_tag": "h4",
@@ -462,7 +403,6 @@
         "item_9GrX3q": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Incredibly-Soft-3.webp",
             "column_size": "3",
             "title": "Incredibly Soft",
             "heading_tag": "h4",
@@ -475,7 +415,6 @@
         "item_YxrgcP": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Breathable-3.webp",
             "column_size": "3",
             "title": "Ultra Breathable",
             "heading_tag": "h4",
@@ -509,22 +448,6 @@
     },
     "1744714422dfffb400": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_iRwUkH": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_iRwUkH"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
