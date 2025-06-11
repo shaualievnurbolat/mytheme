@@ -93,6 +93,39 @@
         "input_text_color": ""
       }
     },
+    "rich_text_79PN8H": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AYPBKr": {
+          "type": "heading",
+          "settings": {
+            "text": "Transformations with Shapedly: Real Stories",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_bdy96Q": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discover the journey of style and confidence with our bras, as told by over <strong>100.000+ satisfied customers.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AYPBKr",
+        "richtext_bdy96Q"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "174966121404763f8b": {
       "type": "apps",
       "blocks": {
@@ -138,10 +171,37 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "before_after_image_84i7LP": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "The Shapedly Effect",
+        "content": "",
+        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
+        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
     }
   },
   "order": [
     "main",
-    "174966121404763f8b"
+    "rich_text_79PN8H",
+    "174966121404763f8b",
+    "before_after_image_84i7LP"
   ]
 }
