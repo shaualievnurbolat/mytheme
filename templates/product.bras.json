@@ -196,12 +196,76 @@
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
+    },
+    "testimonials_HjH8Uk": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_A7xpKw": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lauren T.",
+            "title": "",
+            "content": "<p>\"Truthfully this is the most comfortable bra I've ever worn! I am soo glad I found this bra. It's so comfy, supportive but light and soft. Looks great under t-shirts as well!!\"</p>"
+          }
+        },
+        "testimonial_9Yp67H": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/6xrqcsYnE_1_1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jessica W.",
+            "title": "",
+            "content": "<p>\"This bra is AMAZING. I love the wide back as it smooths out any back fat, the straps are very comfortable, and it lifts. love it\"</p>"
+          }
+        },
+        "testimonial_nTX3h9": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Karen A.",
+            "title": "",
+            "content": "<p>\"I have sensitive skin and have a hard time finding comfortable bras. This fits like a dream. The wider back strap makes a huge different in smoothing my back and the straps don’t cut in nor do they slide down! Perfect light padding/lining. Definitely recommend\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_A7xpKw",
+        "testimonial_9Yp67H",
+        "testimonial_nTX3h9"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Honest Reviews about the Shapedly Bra",
+        "content": "<p>More than <strong>62,145+</strong> women love our bra, rating it <strong>4.7/5 </strong>for its blend of comfort and lift.</p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "rich_text_79PN8H",
     "174966121404763f8b",
-    "before_after_image_84i7LP"
+    "before_after_image_84i7LP",
+    "testimonials_HjH8Uk"
   ]
 }
