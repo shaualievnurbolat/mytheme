@@ -358,7 +358,8 @@
         "item_ECNMfr"
       ],
       "custom_css": [
-        ".multi-column__item img {width: 100px !important; text-align: center !important;}"
+        ".multi-column {margin-top: -70px;}",
+        ".multi-column__item img {width: 100px !important; text-align: center !important; margin: 0 auto;}"
       ],
       "name": "Multi-column",
       "settings": {
