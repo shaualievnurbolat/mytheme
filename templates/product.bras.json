@@ -12,6 +12,21 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "loox_reviews_loox_rating_Gdjdb7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 14,
+            "pattern": "4.7/5 (1769+ Happy Customers)",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "#4e215d",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -62,9 +77,26 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_qCYMU9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_1024x1024_7907bbf7-3f20-4181-9cd6-f533d90151b6.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_ijNQg3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_1024x1024_e5b1c802-c280-46b9-a503-d53f7be8d67f.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
+        "loox_reviews_loox_rating_Gdjdb7",
         "title",
         "badges",
         "price",
@@ -73,7 +105,9 @@
         "separator",
         "description",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "image_qCYMU9",
+        "image_ijNQg3"
       ],
       "settings": {
         "full_width": true,
@@ -374,6 +408,73 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "media_with_text_mggCyM": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HXP6Pg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/shapedly_hassliche2.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Maximum Support, Zero Sagging",
+            "content": "<p>Designed to deliver unparalleled support and comfort, the 5D seamed cups, wide side wings, and cushioned shoulder straps work together to <strong>lift and shape your curves.</strong> The U-shape back panel <strong>smooths out back bulges and eliminates armpit fat,</strong> giving you a beautifully flattering silhouette. No sagging, no discomfort—just pure confidence all day long.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#262626",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HXP6Pg"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "1749661278cef82778": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_zqwAXQ": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_zqwAXQ"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -383,6 +484,8 @@
     "before_after_image_84i7LP",
     "testimonials_HjH8Uk",
     "media_with_text_w7iPk4",
-    "multi_column_RM3eC6"
+    "multi_column_RM3eC6",
+    "media_with_text_mggCyM",
+    "1749661278cef82778"
   ]
 }
