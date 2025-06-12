@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free Shipping",
-            "content": "<p>We offer free world-wide shipping on all orders & a paid express shipping option.</p>"
+            "title": "Worldwide Shipping",
+            "content": "<p>We offer fast world-wide shipping on all orders & an express shipping option.</p>"
           }
         },
         "customer-support": {
@@ -37,13 +37,13 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Need help?",
-            "content": "<p>Our customer service team is here to help you, <a href=\"mailto:support@heyshape.co\" title=\"mailto:support@heyshape.co\">support@heyshape.co</a></p>"
+            "content": "<p>Our customer service team is here to help you, <a href=\"mailto:info@shapedly.com\" title=\"mailto:info@shapedly.com\">info@shapedly.com</a></p>"
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-lock",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
@@ -79,7 +79,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Join the HeyShape Community",
+            "title": "Join the Shapedly Community",
             "content": "<p>Get exclusive access to our new collections, special discounts and more.</p>"
           }
         },
