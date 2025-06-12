@@ -67,12 +67,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "inventory_arERYi": {
-          "type": "inventory",
-          "settings": {
-            "low_inventory_threshold": 0
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -131,7 +125,6 @@
         "separator",
         "description",
         "quantity_selector",
-        "inventory_arERYi",
         "buy_buttons",
         "liquid_wdiFVM",
         "collapsible_text_4iWjXR",
@@ -180,7 +173,6 @@
         "heading_AYPBKr",
         "richtext_bdy96Q"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -241,7 +233,6 @@
     },
     "before_after_image_84i7LP": {
       "type": "before-after-image",
-      "name": "Before/after image",
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -309,7 +300,6 @@
         "testimonial_9Yp67H",
         "testimonial_nTX3h9"
       ],
-      "name": "Testimonials",
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
@@ -356,7 +346,6 @@
       "block_order": [
         "image_AriKP6"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": true,
         "spacing": "none"
@@ -428,7 +417,6 @@
         ".multi-column {margin-top: -70px;}",
         ".multi-column__item img {width: 100px !important; text-align: center !important; margin: 0 auto;}"
       ],
-      "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
@@ -471,7 +459,6 @@
       "block_order": [
         "image_HXP6Pg"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "spacing": "small"
