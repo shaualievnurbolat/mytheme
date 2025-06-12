@@ -275,15 +275,15 @@
         "image_HXP6Pg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shapedly_hassliche2.webp",
+            "image": "shopify://shop_images/bodypositivity-v3_1f942e60-0dc8-41f2-b4cd-bb5fc14449b8.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Maximum Support, Zero Sagging",
-            "content": "<p>Designed to deliver unparalleled support and comfort, the 5D seamed cups, wide side wings, and cushioned shoulder straps work together to <strong>lift and shape your curves.</strong> The U-shape back panel <strong>smooths out back bulges and eliminates armpit fat,</strong> giving you a beautifully flattering silhouette. No sagging, no discomfort—just pure confidence all day long.</p>",
+            "title": "We Celebrate Every Body",
+            "content": "<p>We are passionately committed to uplifting and empowering individuals by embracing body diversity. Our shapewear is designed to highlight the beauty of bodies in all shapes, sizes, and shades. We reject the notion of a one-size-fits-all beauty standard, focusing instead on creating garments that make you feel confidently you.</p><p>Our mission extends beyond aesthetics; it's about fostering self-love and self-acceptance. We collaborate with body-positive activists and communities to spread the message of inclusivity, ensuring that everyone feels seen and valued. Whether you're wearing our shapewear for a special occasion or as a daily confidence booster, know that you are perfect just the way you are.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -299,8 +299,8 @@
         "image_HXP6Pg"
       ],
       "settings": {
-        "full_width": false,
-        "spacing": "small"
+        "full_width": true,
+        "spacing": "none"
       }
     },
     "1749661278cef82778": {
