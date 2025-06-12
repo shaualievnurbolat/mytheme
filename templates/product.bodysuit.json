@@ -1,0 +1,511 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "loox_reviews_loox_rating_Gdjdb7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 14,
+            "pattern": "4.7/5 (1769+ Happy Customers)",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "#4e215d",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#4e215d",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#4e215d",
+            "payment_button_text_color": "#ffffff"
+          }
+        },
+        "liquid_wdiFVM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n              <!-- Start of custom message section -->\n<section class=\"custom-message-section\">\n  <div class=\"message-container\">\n    <p class=\"message-text\">\n      <strong style=\"color: black;\">UPDATE:</strong> Due to a warehouse clearance this month, <span style=\"color: purple; font-weight: bold;\">we're offering our best-selling bra at just $9.98 (normally $39.99)!</span>\n\nWe're going viral on TikTok and stock is running low fast — grab yours before we're sold out!\n    </p>\n  </div>\n</section>\n<!-- End of custom message section -->\n\n<style>\n.custom-message-section {\n  background-color: #;\n  padding: 0px;\n  border-radius: 5px;\n  text-align: left;\n  margin: 20px 0;\n}\n\n.message-container {\n  display: inline-block;\n}\n\n.message-text {\n  font-size: 16px;\n  color: #333;\n}\n</style>\n            </div>\n\n<div class=\"product-info__liquid\">\n              <div class=\"customer-review-section\" style=\"background-color: #f5f5f5; border-radius: 10px; padding: 15px; max-width: 700px; margin: auto; margin-bottom: 1.5em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\">\n  <div style=\"display: flex; align-items: flex-start; gap: 15px;\">\n    <div style=\"flex: 0 0 60px; border-radius: 50%; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0720/9127/1436/files/36e25f59-dafe-4a5c-b9ae-4b82c8e763a0-modified.png?v=1711124384\" style=\"width: 100%; height: auto;\" alt=\"Customer photo\">\n    </div>\n    <div style=\"flex-grow: 1;\">\n      <blockquote style=\"font-style: normal; margin: 0; font-size: 14px;\">\n        \"<span style=\"font-weight: bold;\">Finally a bra that REALLY works for bigger breasts!</span> No back bulges and it's so comfy, I can wear it all day without an issue ✨\"\n        <div style=\"color: #ffa500; font-size: larger;\">★★★★★</div>\n      </blockquote>\n      <div style=\"display: flex; align-items: baseline; margin-top: 0.2em;\">\n        <span style=\"font-weight: bold; font-size: 14px;\">✔ Sophia N.</span>\n        <span style=\"font-size: 12px; font-style: italic; margin-left: 5px;\">(Ontario, Canada)</span>\n      </div>\n    </div>\n  </div>\n</div>\n            </div>"
+          }
+        },
+        "collapsible_text_4iWjXR": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>It’s the back-smoothing shaping bra you’ve been waiting for.</strong> Its innovative design smooths out your back fat, giving you a gravity-defying lift with ultimate comfort, no matter your size. <strong>Fits true to size</strong></p><p>✌️ 100% Back Smoothing</p><p>⬆️ Gradual lift cup</p><p>🤍 Body hugging fit</p><p>✨ Smooth under tops</p><p><strong>Fabric: </strong>80% Nylon & 20% Spandex</p><p><strong>Lining: </strong>83% Viscose & 17% Polyester</p><p><strong>Wash Care:</strong> Machine Wash. Do not bleach. Lay flat to dry.</p>"
+          }
+        },
+        "collapsible_text_dNV7Qj": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping",
+            "content": "<p>We provide <strong>FREE </strong>shipping for orders <strong>over $60 USD</strong></p><p>We offer<strong> fast & tracked shipping </strong>to the <strong>United States, Canada and worldwide.</strong></p><p>All orders are <strong>shipped within a 24-48 hour timeframe.</strong></p>"
+          }
+        },
+        "image_qCYMU9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_1024x1024_7907bbf7-3f20-4181-9cd6-f533d90151b6.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_ijNQg3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_1024x1024_e5b1c802-c280-46b9-a503-d53f7be8d67f.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_rating_Gdjdb7",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "separator",
+        "description",
+        "quantity_selector",
+        "buy_buttons",
+        "liquid_wdiFVM",
+        "collapsible_text_4iWjXR",
+        "collapsible_text_dNV7Qj",
+        "image_qCYMU9",
+        "image_ijNQg3"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "rich_text_79PN8H": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AYPBKr": {
+          "type": "heading",
+          "settings": {
+            "text": "Transformations with Shapedly: Real Stories",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_bdy96Q": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discover the journey of style and confidence with our bras, as told by over <strong>100.000+ satisfied customers.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AYPBKr",
+        "richtext_bdy96Q"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "174966121404763f8b": {
+      "type": "apps",
+      "blocks": {
+        "spark_spotlight_carousal_idLxPA": {
+          "type": "shopify://apps/spark/blocks/spotlight-carousal/3eb8b961-42bd-4d42-a091-9b8e4c877d96",
+          "settings": {
+            "show_videos_dynamically": false,
+            "auto_play_video_next_video": false,
+            "feed_title": "",
+            "title_alignment": "center",
+            "show_play_button": false,
+            "show_views": false,
+            "show_arrow_buttons": true,
+            "product_card_status": "hidden",
+            "show_video_title": false,
+            "border_radius": 16,
+            "padding_top": 20,
+            "padding_bottom": 20,
+            "product_card_border_radius": 12,
+            "product_card_image_border_radius": 8,
+            "show_compare_at_price": true,
+            "product_card_btn_actn": "product_details",
+            "product_card_btn_text": "Shop",
+            "product_card_btn_background_color": "#000000",
+            "product_card_btn_text_color": "#ffffff",
+            "product_card_btn_border_radius": 24
+          }
+        }
+      },
+      "block_order": [
+        "spark_spotlight_carousal_idLxPA"
+      ],
+      "custom_css": [
+        ".spark-tw-cursor-pointer {display: none !important;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "before_after_image_84i7LP": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "The Shapedly Effect",
+        "content": "",
+        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
+        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "testimonials_HjH8Uk": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_A7xpKw": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lauren T.",
+            "title": "",
+            "content": "<p>\"Truthfully this is the most comfortable bra I've ever worn! I am soo glad I found this bra. It's so comfy, supportive but light and soft. Looks great under t-shirts as well!!\"</p>"
+          }
+        },
+        "testimonial_9Yp67H": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/6xrqcsYnE_1_1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jessica W.",
+            "title": "",
+            "content": "<p>\"This bra is AMAZING. I love the wide back as it smooths out any back fat, the straps are very comfortable, and it lifts. love it\"</p>"
+          }
+        },
+        "testimonial_nTX3h9": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Karen A.",
+            "title": "",
+            "content": "<p>\"I have sensitive skin and have a hard time finding comfortable bras. This fits like a dream. The wider back strap makes a huge different in smoothing my back and the straps don’t cut in nor do they slide down! Perfect light padding/lining. Definitely recommend\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_A7xpKw",
+        "testimonial_9Yp67H",
+        "testimonial_nTX3h9"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Honest Reviews about the Shapedly Bra",
+        "content": "<p>More than <strong>62,145+</strong> women love our bra, rating it <strong>4.7/5 </strong>for its blend of comfort and lift.</p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "media_with_text_w7iPk4": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AriKP6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/shapedly_package_3.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "What Makes Our Products So Unique?",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AriKP6"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "multi_column_RM3eC6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_RW3hWX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/360-Snatch-3.webp",
+            "column_size": "3",
+            "title": "360° Shaped",
+            "heading_tag": "h4",
+            "content": "<p>Shapedlys Fabric follows the shape of your body, giving the garments comfort and freedom of movement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yekpNJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Incredibly-Soft-3.webp",
+            "column_size": "3",
+            "title": "Incredibly Soft",
+            "heading_tag": "h4",
+            "content": "<p>Our fabrics are meticulously designed for ultra-sensitive skin, ensuring maximum comfort and preventing irritation.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Xz6hqL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Breathable-3.webp",
+            "column_size": "3",
+            "title": "Ultra Breathable",
+            "heading_tag": "h4",
+            "content": "<p>Our clothing effectively wicks away sweat, keeping you dry and comfortable all day long.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ECNMfr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Keep-It-Cool-3.webp",
+            "column_size": "3",
+            "title": "Keep It Cool",
+            "heading_tag": "h4",
+            "content": "<p>Our products are crafted to overcome the performance challenges found in other activewear.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_RW3hWX",
+        "item_yekpNJ",
+        "item_Xz6hqL",
+        "item_ECNMfr"
+      ],
+      "custom_css": [
+        ".multi-column {margin-top: -70px;}",
+        ".multi-column__item img {width: 100px !important; text-align: center !important; margin: 0 auto;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_mggCyM": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HXP6Pg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/shapedly_hassliche2.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Maximum Support, Zero Sagging",
+            "content": "<p>Designed to deliver unparalleled support and comfort, the 5D seamed cups, wide side wings, and cushioned shoulder straps work together to <strong>lift and shape your curves.</strong> The U-shape back panel <strong>smooths out back bulges and eliminates armpit fat,</strong> giving you a beautifully flattering silhouette. No sagging, no discomfort—just pure confidence all day long.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#262626",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HXP6Pg"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "1749661278cef82778": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_zqwAXQ": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_zqwAXQ"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_79PN8H",
+    "174966121404763f8b",
+    "before_after_image_84i7LP",
+    "testimonials_HjH8Uk",
+    "media_with_text_w7iPk4",
+    "multi_column_RM3eC6",
+    "media_with_text_mggCyM",
+    "1749661278cef82778"
+  ]
+}
