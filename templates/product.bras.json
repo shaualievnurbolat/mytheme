@@ -215,6 +215,9 @@
       "block_order": [
         "spark_spotlight_carousal_idLxPA"
       ],
+      "custom_css": [
+        ".spark-tw-cursor-pointer {display: none !important;}"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
