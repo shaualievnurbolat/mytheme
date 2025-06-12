@@ -78,6 +78,12 @@
             "payment_button_text_color": "#ffffff"
           }
         },
+        "liquid_wdiFVM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n              <!-- Start of custom message section -->\n<section class=\"custom-message-section\">\n  <div class=\"message-container\">\n    <p class=\"message-text\">\n      <strong style=\"color: black;\">UPDATE:</strong> Due to a warehouse clearance this month, <span style=\"color: purple; font-weight: bold;\">we're offering our best-selling bra at just $9.98 (normally $39.99)!</span>\n\nWe're going viral on TikTok and stock is running low fast — grab yours before we're sold out!\n    </p>\n  </div>\n</section>\n<!-- End of custom message section -->\n\n<style>\n.custom-message-section {\n  background-color: #;\n  padding: 0px;\n  border-radius: 5px;\n  text-align: left;\n  margin: 20px 0;\n}\n\n.message-container {\n  display: inline-block;\n}\n\n.message-text {\n  font-size: 16px;\n  color: #333;\n}\n</style>\n            </div>"
+          }
+        },
         "collapsible_text_4iWjXR": {
           "type": "collapsible_text",
           "settings": {
@@ -120,6 +126,7 @@
         "description",
         "quantity_selector",
         "buy_buttons",
+        "liquid_wdiFVM",
         "collapsible_text_4iWjXR",
         "collapsible_text_dNV7Qj",
         "image_qCYMU9",
