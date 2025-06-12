@@ -67,6 +67,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "inventory_arERYi": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -125,6 +131,7 @@
         "separator",
         "description",
         "quantity_selector",
+        "inventory_arERYi",
         "buy_buttons",
         "liquid_wdiFVM",
         "collapsible_text_4iWjXR",
