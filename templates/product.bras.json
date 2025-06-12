@@ -72,10 +72,10 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
+            "atc_button_background": "#4e215d",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#4e215d",
+            "payment_button_text_color": "#ffffff"
           }
         },
         "collapsible_text_4iWjXR": {
@@ -200,7 +200,7 @@
             "product_card_btn_actn": "product_details",
             "product_card_btn_text": "Shop",
             "product_card_btn_background_color": "#000000",
-            "product_card_btn_text_color": "#FFFFFF",
+            "product_card_btn_text_color": "#ffffff",
             "product_card_btn_border_radius": 24
           }
         }
