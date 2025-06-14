@@ -60,7 +60,7 @@
         "logo": "shopify://shop_images/1.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 120,
-        "menu": "main-menu",
+        "menu": "customer-account-main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
