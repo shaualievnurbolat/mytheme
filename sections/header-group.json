@@ -14,31 +14,15 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "FREE RETURNS AND EXCHANGES",
-            "url": ""
-          }
-        },
-        "message_4y8fTU": {
-          "type": "message",
-          "settings": {
-            "text": "SPRING SALE: UP TO 60% OFF!",
-            "url": ""
-          }
-        },
         "message_KWQzYC": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "✦ Last Chance: Sale Ends Soon",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_4y8fTU",
         "message_KWQzYC"
       ],
       "custom_css": [],
