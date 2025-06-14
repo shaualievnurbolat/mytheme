@@ -205,6 +205,9 @@
         "spark_spotlight_carousal_GJkr6C",
         "spark_shoppable_stories_Uxet43"
       ],
+      "custom_css": [
+        ".spark-tw-cursor-pointer svg {display: none;}"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": true,
