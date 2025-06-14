@@ -55,7 +55,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".product-quick-add {z-index: 100;}"
+        ".product-quick-add {z-index: 100 !important;}"
       ],
       "settings": {
         "enable_sticky": true,
