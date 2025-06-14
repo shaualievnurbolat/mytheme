@@ -27,11 +27,19 @@
             "text": "SPRING SALE: UP TO 60% OFF!",
             "url": ""
           }
+        },
+        "message_KWQzYC": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_4y8fTU"
+        "message_4y8fTU",
+        "message_KWQzYC"
       ],
       "custom_css": [],
       "settings": {
@@ -39,7 +47,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#4e215d",
+        "background": "#d662ff",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -49,7 +57,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/shapedlyLogoBlack_fc145dc5-7b72-4df3-a7a6-aa835b35560a.webp",
+        "logo": "shopify://shop_images/1.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
