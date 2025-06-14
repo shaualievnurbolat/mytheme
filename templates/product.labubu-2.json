@@ -43,6 +43,12 @@
             "show_taxes_notice": false
           }
         },
+        "description_Vf4DMx": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -65,8 +71,8 @@
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#4e215d",
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#f05454",
             "atc_button_text_color": "#ffffff",
             "payment_button_background": "#4e215d",
             "payment_button_text_color": "#ffffff"
@@ -78,6 +84,7 @@
         "title",
         "badges",
         "price",
+        "description_Vf4DMx",
         "rating",
         "payment_terms",
         "separator",
