@@ -1,0 +1,346 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "loox_reviews_loox_rating_Gdjdb7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 14,
+            "pattern": "4.7/5 (1769+ Happy Customers)",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "#4e215d",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#4e215d",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#4e215d",
+            "payment_button_text_color": "#ffffff"
+          }
+        },
+        "spark_shoppable_video_aVFzNF": {
+          "type": "shopify://apps/spark/blocks/shoppable-video/3eb8b961-42bd-4d42-a091-9b8e4c877d96",
+          "settings": {
+            "show_videos_dynamically": false,
+            "auto_play_video": "always",
+            "feed_title": "Join our community of 500k+ happy customers",
+            "title_alignment": "center",
+            "item_alignment": false,
+            "show_play_button": false,
+            "show_views": false,
+            "show_arrow_buttons": false,
+            "product_card_status": "hidden",
+            "show_video_title": false,
+            "border_radius": 16,
+            "padding_top": 20,
+            "padding_bottom": 20,
+            "player_type": "full_screen_player",
+            "show_views_on_player": false,
+            "player_border_radius": 16,
+            "product_card_border_radius": 12,
+            "product_card_image_border_radius": 8,
+            "show_compare_at_price": true,
+            "product_card_btn_actn": "product_details",
+            "product_card_btn_text": "Shop",
+            "product_card_btn_background_color": "#000000",
+            "product_card_btn_text_color": "#FFFFFF",
+            "product_card_btn_border_radius": 24
+          }
+        },
+        "collapsible_text_4iWjXR": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "{{ product.description }}"
+          }
+        },
+        "collapsible_text_dNV7Qj": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping",
+            "content": "<p>We provide <strong>FREE </strong>shipping for orders <strong>over $60 USD</strong></p><p>We offer<strong> fast & tracked shipping </strong>to the <strong>United States, Canada and worldwide.</strong></p><p>All orders are <strong>shipped within a 24-48 hour timeframe.</strong></p>"
+          }
+        },
+        "collapsible_text_9ePdkV": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Careguide",
+            "content": "<p>1. Hand wash or use a delicate cycle: To keep your shapewear looking its best, it's important to handle it with care. Hand washing is the gentlest way to clean your shapewear, but if you prefer to use a washing machine, be sure to use a delicate cycle.</p><p>2. Use mild detergent: Harsh detergents can damage the delicate fabrics used in shapewear, so it's best to use a mild detergent. Avoid using fabric softeners and bleach, as they can also damage the fabric.</p><p>3. Air dry: After washing your shapewear, don't put it in the dryer. Instead, lay it flat or hang it to air dry. Avoid exposing it to direct sunlight, as this can cause the fabric to fade.</p><p>4. Store carefully: To prevent your shapewear from getting stretched out of shape, store it carefully. Fold it neatly and store it in a drawer or on a hanger. Avoid storing it in direct sunlight or in a humid environment.</p><p>5. Replace when necessary: Shapewear is designed to provide support and contouring for your body, but over time, the fabric may lose its elasticity and effectiveness. Replace your shapewear when it no longer provides the desired support or if it becomes worn or damaged.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_rating_Gdjdb7",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "separator",
+        "quantity_selector",
+        "buy_buttons",
+        "spark_shoppable_video_aVFzNF",
+        "collapsible_text_4iWjXR",
+        "collapsible_text_dNV7Qj",
+        "collapsible_text_9ePdkV"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "grid_highlight",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "media_with_text_w7iPk4": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AriKP6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/shapedly_package_3.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "What Makes Our Products So Unique?",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AriKP6"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "multi_column_RM3eC6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_RW3hWX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/360-Snatch-3.webp",
+            "column_size": "3",
+            "title": "360° Snatch",
+            "heading_tag": "h4",
+            "content": "<p>The fabric follows the shape of the body, giving the garments comfort, freedom of movement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yekpNJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Incredibly-Soft-3.webp",
+            "column_size": "3",
+            "title": "Incredibly Soft",
+            "heading_tag": "h4",
+            "content": "<p>Our fabrics are meticulously designed for ultra-sensitive skin, ensuring maximum comfort and preventing irritation.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Xz6hqL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Breathable-3.webp",
+            "column_size": "3",
+            "title": "Ultra Breathable",
+            "heading_tag": "h4",
+            "content": "<p>Our clothing effectively wicks away sweat, keeping you dry and comfortable all day long.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ECNMfr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Keep-It-Cool-3.webp",
+            "column_size": "3",
+            "title": "Keep It Cool",
+            "heading_tag": "h4",
+            "content": "<p>Our products are crafted to overcome the performance challenges found in other activewear.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_RW3hWX",
+        "item_yekpNJ",
+        "item_Xz6hqL",
+        "item_ECNMfr"
+      ],
+      "custom_css": [
+        ".multi-column {margin-top: -70px;}",
+        ".multi-column__item img {width: 60px !important; text-align: center !important; margin: 0 auto;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_mggCyM": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HXP6Pg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bodypositivity-v3_1f942e60-0dc8-41f2-b4cd-bb5fc14449b8.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "We Celebrate Every Body",
+            "content": "<p>We are passionately committed to uplifting and empowering individuals by embracing body diversity. Our shapewear is designed to highlight the beauty of bodies in all shapes, sizes, and shades. We reject the notion of a one-size-fits-all beauty standard, focusing instead on creating garments that make you feel confidently you.</p><p>Our mission extends beyond aesthetics; it's about fostering self-love and self-acceptance. We collaborate with body-positive activists and communities to spread the message of inclusivity, ensuring that everyone feels seen and valued. Whether you're wearing our shapewear for a special occasion or as a daily confidence booster, know that you are perfect just the way you are.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#262626",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HXP6Pg"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "1749661278cef82778": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_zqwAXQ": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_zqwAXQ"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "media_with_text_w7iPk4",
+    "multi_column_RM3eC6",
+    "media_with_text_mggCyM",
+    "1749661278cef82778"
+  ]
+}
