@@ -54,9 +54,7 @@
     },
     "header": {
       "type": "header",
-      "custom_css": [
-        ".product-quick-add {z-index: 100 !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
