@@ -54,6 +54,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".product-quick-add {z-index: 100;}"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
@@ -79,7 +82,6 @@
     },
     "custom_liquid_yDTFCJ": {
       "type": "custom-liquid",
-      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
