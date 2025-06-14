@@ -79,7 +79,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Join the Shapedly Community",
+            "title": "Join the Formelle Community",
             "content": "<p>Get exclusive access to our new collections, special discounts and more.</p>"
           }
         },
@@ -93,8 +93,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "HeyShape",
-            "content": "<p>Love Your Shape.<br/><br/><strong>Lightbuzz E-Commerce LLC </strong>9450 SW Gemini Dr, PMB 95258<br/>Beaverton, OR 97008<br/>United States</p>",
+            "title": "Formelle",
+            "content": "<p><strong>Lightbuzz E-Commerce LLC </strong>9450 SW Gemini Dr, PMB 95258<br/>Beaverton, OR 97008<br/>United States</p>",
             "enable_follow_on_shop": true
           }
         }
