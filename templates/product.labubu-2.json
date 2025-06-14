@@ -61,6 +61,12 @@
             "liquid": "<style>\n  .tiktok-views {\n    margin: -15px 0;\n    border: 2px solid #dddcdc;\n    border-radius: 20px;\ndisplay: flex;\nflex-direction: row;\ngap: 10px;\npadding: 0px 15px;\nfont-weight: 600;\nfont-size: 13px;\ncolor: #474747\n  }\n</style>\n<div class=\"tiktok-views\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"#474747\" width=\"15\" viewBox=\"0 0 24 24\" xml:space=\"preserve\"><path d=\"M19.589 6.686a4.793 4.793 0 0 1-3.77-4.245V2h-3.445v13.672a2.896 2.896 0 0 1-5.201 1.743l-.002-.001.002.001a2.895 2.895 0 0 1 3.183-4.51v-3.5a6.329 6.329 0 0 0-5.394 10.692 6.33 6.33 0 0 0 10.857-4.424V8.687a8.182 8.182 0 0 0 4.773 1.526V6.79a4.831 4.831 0 0 1-1.003-.104z\"/></svg>\n Over 32m Views on Tiktok\n</div>"
           }
         },
+        "liquid_9ejirM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap\" rel=\"stylesheet\">\n    <style>\n        .notification {\n            position: relative;\n            display: flex;\n            align-items: flex-start;\n            border: 2px dashed #62462d;\n            border-radius: 10px;\n            padding: 8px;\n            background-color: #fff;\n            width: fit-content;\n            font-size: 12px;\n        }\n        .profile-picture {\n            width: 35px;\n            height: 35px;\n            border-radius: 50%;\n            object-fit: cover;\n            margin-right: 10px;\n        }\n        .notification-content {\n            display: flex;\n            flex-direction: column;\n        }\n        .username {\n            font-weight: bold;\n            margin-bottom: 5px;\n            display: flex;\n            align-items: center;\n        }\n        .verified-icon {\n            margin-left: 5px;\n            width: 14px;\n            height: 14px;\n        }\n        .offer-text {\n            font-size: 13px;\n            color: #333;\n        }\n        .header {\n            display: flex;\n            align-items: center;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"notification\">\n        <div class=\"notification-content\">\n            <div class=\"header\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0696/6902/8037/files/25.png?v=1739631544\" class=\"profile-picture\">\n                <div class=\"username\">\n                    Mehul<img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg\" alt=\"Verified Badge\" class=\"verified-icon\">\n                </div>\n            </div>\n            <div class=\"offer-text\">\n                “I’m so happy with my order! It arrived in just 5 days and looks exactly like the pictures. Super cute and great quality. Highly recommend!”\n            </div>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -105,6 +111,7 @@
         "liquid_6VMrxd",
         "description_Vf4DMx",
         "liquid_dikT8K",
+        "liquid_9ejirM",
         "rating",
         "payment_terms",
         "separator",
