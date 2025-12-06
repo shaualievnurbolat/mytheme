@@ -12,21 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "loox_reviews_loox_rating_Gdjdb7": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "contentSize": 14,
-            "pattern": "4.7/5 (1769+ Happy Customers)",
-            "hideText": false,
-            "alignment": "",
-            "layout": "",
-            "textColor": "",
-            "starColor": "#4e215d",
-            "showAllReviews": false,
-            "looxOpenFloatingWidget": false,
-            "emptyRatingWidget": false
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -63,10 +48,6 @@
             "collapse_content": false
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -101,7 +82,6 @@
         "image_qCYMU9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1_1024x1024_7907bbf7-3f20-4181-9cd6-f533d90151b6.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -109,14 +89,12 @@
         "image_ijNQg3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2_1024x1024_e5b1c802-c280-46b9-a503-d53f7be8d67f.webp",
             "alignment": "center",
             "max_width": 500
           }
         }
       },
       "block_order": [
-        "loox_reviews_loox_rating_Gdjdb7",
         "title",
         "badges",
         "price",
@@ -124,7 +102,6 @@
         "payment_terms",
         "separator",
         "description",
-        "quantity_selector",
         "buy_buttons",
         "liquid_wdiFVM",
         "collapsible_text_4iWjXR",
@@ -184,36 +161,6 @@
     },
     "174966121404763f8b": {
       "type": "apps",
-      "blocks": {
-        "spark_spotlight_carousal_idLxPA": {
-          "type": "shopify://apps/spark/blocks/spotlight-carousal/3eb8b961-42bd-4d42-a091-9b8e4c877d96",
-          "settings": {
-            "show_videos_dynamically": false,
-            "auto_play_video_next_video": false,
-            "feed_title": "",
-            "title_alignment": "center",
-            "show_play_button": false,
-            "show_views": false,
-            "show_arrow_buttons": true,
-            "product_card_status": "hidden",
-            "show_video_title": false,
-            "border_radius": 16,
-            "padding_top": 20,
-            "padding_bottom": 20,
-            "product_card_border_radius": 12,
-            "product_card_image_border_radius": 8,
-            "show_compare_at_price": true,
-            "product_card_btn_actn": "product_details",
-            "product_card_btn_text": "Shop",
-            "product_card_btn_background_color": "#000000",
-            "product_card_btn_text_color": "#ffffff",
-            "product_card_btn_border_radius": 24
-          }
-        }
-      },
-      "block_order": [
-        "spark_spotlight_carousal_idLxPA"
-      ],
       "custom_css": [
         ".spark-tw-cursor-pointer {display: none !important;}"
       ],
@@ -238,8 +185,6 @@
         "subheading": "",
         "title": "The Shapedly Effect",
         "content": "",
-        "before_image": "shopify://shop_images/shapedly_before_faa3af77-59d1-4445-87d6-829d53c2c0a9.webp",
-        "after_image": "shopify://shop_images/shapedly_after_b7bb67c3-f33d-4702-927f-6b22d8ebebda.webp",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -261,7 +206,6 @@
         "testimonial_A7xpKw": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/401185f3-f81f-4463-b326-7c301821b6e9.jpg__PID_25c6f6d3-ca5b-4f5a-9f82-4f122704d94f.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -273,7 +217,6 @@
         "testimonial_9Yp67H": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/6xrqcsYnE_1_1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -285,7 +228,6 @@
         "testimonial_nTX3h9": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/15.jpg__PID_32aae0e3-bddf-407c-8690-64f307104ee1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -323,7 +265,6 @@
         "image_AriKP6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shapedly_package_3.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -357,7 +298,6 @@
         "item_RW3hWX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/360-Snatch-3.webp",
             "column_size": "3",
             "title": "360° Shaped",
             "heading_tag": "h4",
@@ -370,7 +310,6 @@
         "item_yekpNJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Incredibly-Soft-3.webp",
             "column_size": "3",
             "title": "Incredibly Soft",
             "heading_tag": "h4",
@@ -383,7 +322,6 @@
         "item_Xz6hqL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Breathable-3.webp",
             "column_size": "3",
             "title": "Ultra Breathable",
             "heading_tag": "h4",
@@ -396,7 +334,6 @@
         "item_ECNMfr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Keep-It-Cool-3.webp",
             "column_size": "3",
             "title": "Keep It Cool",
             "heading_tag": "h4",
@@ -436,7 +373,6 @@
         "image_HXP6Pg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shapedly_hassliche2.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -466,22 +402,6 @@
     },
     "1749661278cef82778": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_zqwAXQ": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_zqwAXQ"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
