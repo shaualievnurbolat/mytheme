@@ -64,12 +64,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "kaching_bundles_app_block_MnbeQY": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "buy_buttons_8UDiWP": {
           "type": "buy_buttons",
           "settings": {
@@ -95,13 +89,12 @@
         "description_KKCFyT",
         "variant_picker_HqfxN9",
         "quantity_selector_Pq8JkX",
-        "kaching_bundles_app_block_MnbeQY",
         "buy_buttons_8UDiWP",
         "pickup_availability_Wmzhfz"
       ],
       "settings": {
         "full_width": true,
-        "product": "labubu-big-into-energy-exciting-macaron-have-a-seat-series",
+        "product": "back-smoothing-shaping-bra™",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
