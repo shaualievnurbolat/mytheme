@@ -55,6 +55,11 @@
         "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
         "settings": {}
+      },
+      "3868600829136772411": {
+        "type": "shopify://apps/lyve-shoppable-video-stream/blocks/app-embed/59c1ba16-2c38-422a-a2a9-23074d5a3fd9",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
