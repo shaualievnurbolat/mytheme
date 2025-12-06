@@ -175,6 +175,68 @@
         "text_color": ""
       }
     },
+    "multi_column_JPJ6ig": {
+      "type": "multi-column",
+      "blocks": {
+        "item_KY7nCg": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/263fe4ea9b3c4c0ca8bcc559bc9f9c15.HD-1080p-2.5Mbps-41592057.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_p4FeFr": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/c1ca61af23e04338ac47e699aa0728cf.HD-1080p-2.5Mbps-36904647.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WbtbQm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/8a570f4fa17947e6895f7d3ebaad3c9e.HD-1080p-2.5Mbps-41592084.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_KY7nCg",
+        "item_p4FeFr",
+        "item_WbtbQm"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "174966121404763f8b": {
       "type": "apps",
       "custom_css": [
@@ -452,6 +514,7 @@
   "order": [
     "main",
     "rich_text_79PN8H",
+    "multi_column_JPJ6ig",
     "174966121404763f8b",
     "before_after_image_84i7LP",
     "testimonials_HjH8Uk",
