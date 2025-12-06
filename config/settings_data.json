@@ -37,74 +37,14 @@
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
-    "cart_icon": "shopping_cart",
+    "cart_icon": "shopping_basket",
     "social_facebook": "",
     "social_pinterest": "",
     "social_instagram": "",
     "favicon": "shopify://shop_images/569fd78811e050bf9c335552b9897f4c_tplv-tiktokx-cropcenter_1080_1080.jpg",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {}
-      },
-      "13223602749629917723": {
-        "type": "shopify://apps/kaching-cart/blocks/embed/7705621e-3c0f-4e97-9d29-5c8528b19fb7",
-        "disabled": false,
-        "settings": {}
-      },
-      "15093188558284415348": {
-        "type": "shopify://apps/spark/blocks/shoppable-pops/3eb8b961-42bd-4d42-a091-9b8e4c877d96",
-        "disabled": true,
-        "settings": {
-          "show_videos_dynamically": false,
-          "show_untagged_videos": false,
-          "auto_play_video": "always",
-          "pop_play_next_video": false,
-          "show_play_button": false,
-          "pop_position": "bottom_right",
-          "border_radius": 16,
-          "player_type": "full_screen_player",
-          "show_views_on_player": false,
-          "player_border_radius": 16,
-          "product_card_border_radius": 12,
-          "product_card_image_border_radius": 8,
-          "show_compare_at_price": true,
-          "product_card_btn_actn": "product_details",
-          "product_card_btn_text": "Shop",
-          "product_card_btn_background_color": "#000000",
-          "product_card_btn_text_color": "#FFFFFF",
-          "product_card_btn_border_radius": 24
-        }
-      },
-      "7241659924025436803": {
-        "type": "shopify://apps/size-chart/blocks/app-embed/305100b1-3599-492a-a54d-54f196ff1f94",
-        "disabled": true,
-        "settings": {}
-      },
-      "15683396631634586217": {
-        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
-        "disabled": true,
-        "settings": {
-          "button_color": "#000000",
-          "secondary_color": "#ffffff",
-          "ternary_color": "#6a6a6a",
-          "button_icon": "chat_bubble",
-          "button_text": "chat_with_us",
-          "button_horizontal_position": "bottom_right",
-          "button_vertical_position": "lowest",
-          "greeting_message": ""
-        }
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
