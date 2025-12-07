@@ -97,6 +97,7 @@
         "image_qCYMU9": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Shapedly_New_Bra_Size_Chart_2000_x_2500_px_2000_x_3500_px.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -345,6 +346,7 @@
         "image_AriKP6": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/shapedly_package_3.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -378,7 +380,8 @@
         "item_RW3hWX": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/360-Snatch-3.webp",
+            "column_size": "4",
             "title": "360° Shaped",
             "heading_tag": "h4",
             "content": "<p>Shapedlys Fabric follows the shape of your body, giving the garments comfort and freedom of movement.</p>",
@@ -390,7 +393,8 @@
         "item_yekpNJ": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Incredibly-Soft-3.webp",
+            "column_size": "4",
             "title": "Incredibly Soft",
             "heading_tag": "h4",
             "content": "<p>Our fabrics are meticulously designed for ultra-sensitive skin, ensuring maximum comfort and preventing irritation.</p>",
@@ -402,7 +406,8 @@
         "item_Xz6hqL": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Breathable-3.webp",
+            "column_size": "4",
             "title": "Ultra Breathable",
             "heading_tag": "h4",
             "content": "<p>Our clothing effectively wicks away sweat, keeping you dry and comfortable all day long.</p>",
@@ -414,7 +419,8 @@
         "item_ECNMfr": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Keep-It-Cool-3.webp",
+            "column_size": "4",
             "title": "Keep It Cool",
             "heading_tag": "h4",
             "content": "<p>Our products are crafted to overcome the performance challenges found in other activewear.</p>",
@@ -453,6 +459,7 @@
         "image_HXP6Pg": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/shapedly_hassliche2.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
