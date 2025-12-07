@@ -14,105 +14,51 @@
       "disabled": true,
       "settings": {}
     },
-    "featured_product_bzQMqp": {
-      "type": "featured-product",
+    "slideshow_VWnzAL": {
+      "type": "slideshow",
       "blocks": {
-        "title_MJTj4W": {
-          "type": "title",
+        "image_BatTFV": {
+          "type": "image",
           "settings": {
-            "heading_tag": "h2"
+            "image": "shopify://shop_images/3_61e045d6-4190-4de1-99d6-bace7446025e.webp",
+            "mobile_image": "shopify://shop_images/4_6eff6b2c-ba5d-4b50-a26a-b3fb761e2ebc.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
           }
-        },
-        "badges_U8EVHY": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_KcAtrg": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_jw7p4W": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_3JEmeH": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_KKCFyT": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_HqfxN9": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_Pq8JkX": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_8UDiWP": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#4e215d",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_Wmzhfz": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "title_MJTj4W",
-        "badges_U8EVHY",
-        "price_KcAtrg",
-        "rating_jw7p4W",
-        "separator_3JEmeH",
-        "description_KKCFyT",
-        "variant_picker_HqfxN9",
-        "quantity_selector_Pq8JkX",
-        "buy_buttons_8UDiWP",
-        "pickup_availability_Wmzhfz"
+        "image_BatTFV"
       ],
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "product": "back-smoothing-shaping-bra™",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "allow_transparent_header": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#ffffff",
+        "background_gradient": ""
       }
     }
   },
   "order": [
     "main",
-    "featured_product_bzQMqp"
+    "slideshow_VWnzAL"
   ]
 }
