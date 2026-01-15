@@ -30,7 +30,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "FAST SHIPPING AND FREE RETURNS",
+            "text": "FREE SHIPPING AND FAST SHIPPING",
             "url": ""
           }
         }
@@ -44,7 +44,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#7a6bb8",
+        "background": "#9fb400",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
