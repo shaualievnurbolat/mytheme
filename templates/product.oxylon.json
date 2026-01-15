@@ -103,15 +103,22 @@
         "collapsible_text_tR4QTQ": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Description",
-            "content": "<p><strong>It’s the back-smoothing shaping bra you’ve been waiting for.</strong> Its innovative design smooths out your back fat, giving you a gravity-defying lift with ultimate comfort, no matter your size. <strong>Fits true to size</strong></p><p>✌️ 100% Back Smoothing</p><p>⬆️ Gradual lift cup</p><p>🤍 Body hugging fit</p><p>✨ Smooth under tops</p><p><strong>Fabric: </strong>80% Nylon & 20% Spandex</p><p><strong>Lining: </strong>83% Viscose & 17% Polyester</p><p><strong>Wash Care:</strong> Machine Wash. Do not bleach. Lay flat to dry.</p>"
+            "title": "Ingeretients",
+            "content": "<p>Vitamin C (Ascorbic Acid) – 10 mg<br/>Milk Thistle Extract – 300 mg<br/>Inositol – 200 mg<br/>Pueraria (Kudzu) Extract – 68 mg<br/>L-Methionine – 10 mg<br/>Turmeric Extract – 4 mg</p>"
           }
         },
         "collapsible_text_7UecpT": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Shipping",
-            "content": "<p>We provide <strong>FREE </strong>shipping for orders <strong>over $60 USD</strong></p><p>We offer<strong> fast & tracked shipping </strong>to the <strong>United States, Canada and worldwide.</strong></p><p>All orders are <strong>shipped within a 24-48 hour timeframe.</strong></p>"
+            "title": "Benefits",
+            "content": "<p>🌿 Liver Detox<br/>⚡ Steady Energy<br/>🥗 Better Digestion<br/>💪 Repair & Strength<br/>🛡️ Antioxidant Defence<br/>✅ Clean Formula</p>"
+          }
+        },
+        "collapsible_text_pP4qwQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping Info",
+            "content": "<p>We ship Monday–Saturday, Here’s what to expect:</p><p>- Shipping Time: 2–5 business days (USA)</p><p>- International Shipping: Available to select countries (7–14 business days)</p><p>- Tracking Info: Sent via email within 24 hours of dispatch</p><p>- Discreet Packaging: Your order is shipped in plain, secure packaging for your privacy</p>"
           }
         },
         "image_HqUKc4": {
@@ -144,6 +151,7 @@
         "liquid_VeFnH6",
         "collapsible_text_tR4QTQ",
         "collapsible_text_7UecpT",
+        "collapsible_text_pP4qwQ",
         "image_HqUKc4",
         "image_NLKHXF"
       ],
