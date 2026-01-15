@@ -1,0 +1,472 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "custom_html_pDHaXr": {
+      "type": "custom-html",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<div class=\"trustpilot-container\">\n  <div class=\"trustpilot-text\">\"Amazing\"</div>\n\n  <img class=\"trustpilot-image\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwTrpqlDxrYZ0pXL4aXXL4azowSSvjMZM2g&amp;s\" alt=\"Trustpilot Image\">\n\n  <div class=\"trustpilot-rating\">Rated 4.4/5 on</div>\n\n  <img class=\"trustpilot-logo\" src=\"https://cdn.shopify.com/s/files/1/0798/4267/2987/files/trustpilot-logo-sml_bf402230-0d05-4609-a750-c310e4720da2.png?v=1733179329\" alt=\"Trustpilot Image\">\n</div>\n\n<style>\n          .trustpilot-container {\n              display: flex;\n              align-items: center;\n              background-color: #e9fff9;\n              border: 1px solid #d4edda;\n              border-radius: 8px;\n              padding: 2px 10px;\n\n              width: 100%;\n  border: 1px dashed #898686;\n  gap: 8px;\n  justify-content: center;\n          }\n\n  .trustpilot-image{\n  width: 60px;\n  }\n  .trustpilot-logo{\n  width: 70px;\n  }\n  .trustpilot-text{\n  font-size: 13px;\n  font-weight: 600;\n  }\n  .trustpilot-rating{\n  font-size: 10px;\n  font-weight: 500;\n  color: #000;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_cPwQ4F": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"happy-customersV2\">\n    <div class=\"avatarsV2\">\n        <img src=\"https://img.freepik.com/free-photo/stylish-african-american-woman-smiling_23-2148770405.jpg\" alt=\"Customer 1\" class=\"avatarV2\" />\n        <img src=\"https://thumbs.dreamstime.com/b/beautiful-african-american-woman-relaxing-outside-happy-middle-aged-smiling-46298787.jpg\" alt=\"Customer 2\" class=\"avatarV2\" />\n        <img src=\"https://media.istockphoto.com/id/1320651997/photo/young-woman-close-up-isolated-studio-portrait.jpg?s=612x612&w=0&k=20&c=lV6pxz-DknISGT2jjiSvUmSaw0hpMDf-dBpT8HTSAUI=\" alt=\"Customer 3\" class=\"avatarV2\" />\n    </div>\n    <span class=\"textV2\">\n<span style = \"font-weight: 900;\">Michelle</span>\n    <span class=\"verifiedV2\">\n      <img\n        src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png\"\n        alt=\"verified badge\"\n        class=\"verifiedV2\">\n    </span> \n   <span>and <strong>9758</strong> people purchased</span>\n</span>\n</div>\n\n<style>\n    .happy-customersV2 {\n        display: flex;\n        align-items: center;\n        background-color: #ffffff;\n        border-radius: 8px;\n        padding: 5px 15px;\n        font-family: Roboto, sans-serif !important;\n        font-size: 12px;\n        color: #000;\n        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\n    }\n\n    .avatarsV2 {\n        display: flex;\n        margin-right: 10px;\n    }\n\n    .avatarV2 {\n        width: 22px;\n        height: 22px;\n        border-radius: 50%;\n        border: 2px solid white;\n        margin-left: -7px;\n        object-fit: cover;\n    }\n\n.textV2 {\n    font-weight: normal;\n    font-size: 12px;\n    color: #000;\n    line-height: 0px;\n    display: flex;\n    align-items: center;\n    gap: 3px;\n}\n\n    .textV2 strong {\n        font-weight: 800;\n        font-family: Roboto, sans-serif;\n    }\n\n    .verifiedV2 {\n        vertical-align: middle;\n        height: 13px;\n        width: 13px;\n    }\n</style>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "text_gMEEQh": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>NEW: 💖 2024 Rated Shaping & Support Breakthrough</strong></p>"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#7a6bb8",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "image_GegDPR": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_VeFnH6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"estimated-date-time-wrapper\" style=\"text-align: center; font-size: 13px;\">\n          <div class=\"cnt_main\">\n            Want it by<b class=\"deliverydate shipping__date\" data-shippingsday=\"2\"> Thursday, 28 May</b> ?\n\n            <div class=\"estimated-time\" data-hours=\"2\" data-minutes=\"13\">\n              ORDER WITHIN <b style=\"color: rgba(83, 57, 126, 1);\">0 HOURS 51 MINUTES </b></div>\n            </div>\n          </div>\n        </div>\n\n<script>\n          // Product page countdown timer js start\n          function setCookie(name,value,days) {\n              var expires = \"\";\n              if (days) {\n                  var date = new Date();\n                  date.setTime(date.getTime() + (days*24*60*60*1000));\n                  expires = \"; expires=\" + date.toUTCString();\n              }\n              document.cookie = name + \"=\" + (value || \"\")  + expires + \"; path=/\";\n          }\n          function getCookie(name) {\n              const matches = document.cookie.match(new RegExp(\"(?:^|; )\" + name.replace(/([\\.$?*|{}\\(\\)\\[\\]\\\\\\/\\+^])/g, '\\\\$1') + \"=([^;]*)\"));\n              return matches ? decodeURIComponent(matches[1]) : undefined;\n          }\n          if (getCookie('newtimer') > new Date().getTime()){\n              var time = getCookie('newtimer');\n              var timer = setInterval(function(){\n                  var left = time - new Date().getTime();\n                  var hours = Math.floor(left / (1000 * 60 * 60));\n                  var minutes = Math.floor((left % (1000 * 60 * 60)) / (1000 * 60));\n                  if(minutes < 10) {\n                      minutes = \"0\" + minutes;\n                  }\n                  // var setTimerHtml = '<p id=\"timer\"><b>\"'+ hours +'\":\"'+ minutes +'\"</b> - Hurry before reservation expires.</p>';\n                  // document.querySelector('.cart_timer').append(setTimerHtml);\n                  document.querySelector('div#timer>b').innerHTML =  hours + ' HOURS ' + minutes + ' MINUTES';\n                  if (left <= 1000){\n                      clearInterval(timer);\n                      document.cookie = 'newtimer=\"\"; path=/; domain=bleame.com; secure=true; expires=-1';\n                      location.reload();\n                      // fetch('/cart/clear.js', {method: 'post', credentials: 'include'}).then(res=>{\n                      //     window.location.href = '/collections/products';\n                      // });\n                  }\n              });\n          } else {\n            var Hours = 2;\n            var Minutes = 13;\n            var durationTime = (Hours * 60 * 60 * 1000) + (Minutes * 60 * 1000);\n              document.cookie = 'newtimer=' + (new Date().getTime() + durationTime) + '; path=/; domain=bleame.com; secure=true; expires=' + new Date(new Date().getTime() + 3600000 * 24).toUTCString();\n              var time = new Date().getTime() + durationTime;\n              var timer = setInterval(function(){\n                  var left = time - new Date().getTime();\n                  var hours = Math.floor(left / (1000 * 60 * 60));\n                  var minutes = Math.floor((left % (1000 * 60 * 60)) / (1000 * 60));\n                  if(minutes < 10) {\n                      minutes = \"0\" + minutes;\n                  }\n                  // var setTimerHtml = '<p id=\"timer\"><b>\"'+ hours +'\":\"'+ minutes +'\"</b> - Hurry before reservation expires.</p>';\n                  // document.querySelector('.cart_timer').append(setTimerHtml);\n                  document.querySelector('div#timer>b').innerHTML =  hours + ' HOURS ' + minutes + ' MINUTES ';\n                  if (left <= 1000){\n                      clearInterval(timer);\n                      document.cookie = 'newtimer=\"\"; path=/; domain=bleame.com; secure=true; expires=-1';\n                      location.reload();\n                      // document.querySelector('p#timer>b').innerHTML = hours + ':' + minutes;\n                      // fetch('/cart/clear.js', {method: 'post', credentials: 'include'}).then(res=>{\n                      //     window.location.href = '/collections/products';\n                      // });\n                  }\n              });\n          }\n        </script>\n\n<style>\n     .pro-richtext h2 p {\n      font-size: 25px;\n      padding: 0 15px 0 15px;\n  }\n    .pro-iwt-wrap {\n      display: flex;\n      flex-wrap: wrap;\n      width: 100%;\n  }\n    .pro-iwt-wrap .innr {\n      width: 50%;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      text-align: center;\n      gap: 10px;\n  }\n    .pro-iwt-wrap .inner-icon img {\n      width: 50px;\n      height: 50px;\n      min-width: 50px;\n      margin: 0 auto;\n  }\n    .pro-iwt-wrap .innr p {\n      font-weight: 700;\n      color: #2E2A3A;\n      font-size: 15px;\n      margin-top: 0px;\n  }\n  @media (max-width: 767px) {\n    .pro-iwt-wrap .innr {\n      gap: 7px;\n    }\n    \n    .pro-iwt-wrap .inner-icon img {\n      width: 40px;\n      height: 40px;\n      min-width: 40px;\n  }\n    .pro-iwt-wrap .innr p {\n      font-size: 14px !important;\n    }\n  }\n  @media (max-width: 427px) {\n    .pro-iwt-wrap .innr {\n      gap: 5px;\n    }\n    \n    .pro-iwt-wrap .inner-icon img {\n      width: 35px;\n      height: 35px;\n      min-width: 35px;\n  }\n    .pro-iwt-wrap .innr p {\n      font-size: 10px !important;\n    }\n  }\n  @media (max-width: 393px) {\n    .pro-iwt-wrap .innr {\n      gap: 4px;\n    }\n    \n    .pro-iwt-wrap .inner-icon img {\n      width: 32px;\n      height: 32px;\n      min-width: 32px;\n  }\n    .pro-iwt-wrap .innr p {\n      font-size: 10px !important;\n    }\n  }\n  @media (max-width: 365px) {\n    .pro-iwt-wrap .innr {\n      gap: 4px;\n    }\n    \n    .pro-iwt-wrap .inner-icon img {\n      width: 30px;\n      height: 30px;\n      min-width: 30px;\n  }\n    .pro-iwt-wrap .innr p {\n      font-size: 10px !important;\n    }\n  }\n</style>\n\n<div class=\"pro-iwt-wrap\" style=\"margin-top: -15px; margin-bottom: 20px;\">\n  \n  <div class=\"innr\" style=\"font-size: 5px !important;\">\n    <div class=\"inner-icon\"><img loading=\"lazy\" src=\"//bleame.com/cdn/shop/files/Free_Shipping_60x.png?v=1714562074\" width=\"404\" height=\"404\"></div>\n    <p>Fast Shipping from US</p>\n  </div>\n    \n  \n  <div class=\"innr\">\n    <div class=\"inner-icon\"><img loading=\"lazy\" src=\"//bleame.com/cdn/shop/files/30_Nights_Trial_60x.png?v=1714562082\" width=\"405\" height=\"404\"></div>\n    <p>30-Day-Guarantee</p>\n  </div>\n    \n  \n</div>"
+          }
+        },
+        "collapsible_text_tR4QTQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>It’s the back-smoothing shaping bra you’ve been waiting for.</strong> Its innovative design smooths out your back fat, giving you a gravity-defying lift with ultimate comfort, no matter your size. <strong>Fits true to size</strong></p><p>✌️ 100% Back Smoothing</p><p>⬆️ Gradual lift cup</p><p>🤍 Body hugging fit</p><p>✨ Smooth under tops</p><p><strong>Fabric: </strong>80% Nylon & 20% Spandex</p><p><strong>Lining: </strong>83% Viscose & 17% Polyester</p><p><strong>Wash Care:</strong> Machine Wash. Do not bleach. Lay flat to dry.</p>"
+          }
+        },
+        "collapsible_text_7UecpT": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping",
+            "content": "<p>We provide <strong>FREE </strong>shipping for orders <strong>over $60 USD</strong></p><p>We offer<strong> fast & tracked shipping </strong>to the <strong>United States, Canada and worldwide.</strong></p><p>All orders are <strong>shipped within a 24-48 hour timeframe.</strong></p>"
+          }
+        },
+        "image_HqUKc4": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_NLKHXF": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        }
+      },
+      "block_order": [
+        "liquid_cPwQ4F",
+        "title",
+        "text_gMEEQh",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "image_GegDPR",
+        "liquid_VeFnH6",
+        "collapsible_text_tR4QTQ",
+        "collapsible_text_7UecpT",
+        "image_HqUKc4",
+        "image_NLKHXF"
+      ],
+      "custom_css": [
+        ".badge--on-sale {background: green !important;}",
+        ".product-info__text {margin-top: 0; font-size: 14px;}",
+        ".product-info__description .prose p {margin: 7px 0;}",
+        ".section-blends {padding-bottom: 0 !important;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "rich_text_3QkbNn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PYL3Yg": {
+          "type": "heading",
+          "settings": {
+            "text": "Transformations with Shapedly: Real Stories",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_dnhqJ4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discover the journey of style and confidence with our bras, as told by over <strong>100.000+ satisfied customers.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PYL3Yg",
+        "richtext_dnhqJ4"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "17452329134693cf81": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "17447952273a146a2b": {
+      "type": "apps",
+      "custom_css": [
+        ".spark-tw-self-center {display: none !important;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "before_after_image_XcAMWA": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "The Shapedly EffectDrag",
+        "content": "",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "testimonials_cYT4Rp": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_WXPqkF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lauren T.",
+            "title": "",
+            "content": "<p>\"Truthfully this is the most comfortable bra I've ever worn! I am soo glad I found this bra. It's so comfy, supportive but light and soft. Looks great under t-shirts as well!!\"</p>"
+          }
+        },
+        "testimonial_PcCeXn": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jessica W.",
+            "title": "",
+            "content": "<p>\"This bra is AMAZING. I love the wide back as it smooths out any back fat, the straps are very comfortable, and it lifts. love it\"</p>"
+          }
+        },
+        "testimonial_XPzFdc": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Karen A.",
+            "title": "",
+            "content": "<p>\"I have sensitive skin and have a hard time finding comfortable bras. This fits like a dream. The wider back strap makes a huge different in smoothing my back and the straps don’t cut in nor do they slide down! Perfect light padding/lining. Definitely recommend\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_WXPqkF",
+        "testimonial_PcCeXn",
+        "testimonial_XPzFdc"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Honest Reviews about the Shapedly Bra",
+        "content": "<p>More than <strong>62,145+</strong> women love our bra, rating it <strong>4.7/5 </strong>for its blend of comfort and lift.</p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "1744971630aa9ed2e8": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "media_with_text_9PAd9e": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_YQqW68": {
+          "type": "image",
+          "settings": {
+            "media_width": 60,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "What Makes Our Products So Unique?",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YQqW68"
+      ],
+      "custom_css": [
+        ".section-blends {padding-bottom: 0;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "multi_column_hrJPGF": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kFLgAU": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "360° Shaped",
+            "heading_tag": "h4",
+            "content": "<p>Shapedlys Fabric follows the shape of your body, giving the garments comfort and freedom of movement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9GrX3q": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Incredibly Soft",
+            "heading_tag": "h4",
+            "content": "<p>Our fabrics are meticulously designed for ultra-sensitive skin, ensuring maximum comfort and preventing irritation.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YxrgcP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Ultra Breathable",
+            "heading_tag": "h4",
+            "content": "<p>Our clothing effectively wicks away sweat, keeping you dry and comfortable all day long.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kFLgAU",
+        "item_9GrX3q",
+        "item_YxrgcP"
+      ],
+      "custom_css": [
+        ".multi-column__item img {width: 100px; margin: 0 auto;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1744714422dfffb400": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "custom_html_pDHaXr",
+    "main",
+    "rich_text_3QkbNn",
+    "17452329134693cf81",
+    "17447952273a146a2b",
+    "before_after_image_XcAMWA",
+    "testimonials_cYT4Rp",
+    "1744971630aa9ed2e8",
+    "media_with_text_9PAd9e",
+    "multi_column_hrJPGF",
+    "1744714422dfffb400"
+  ]
+}
