@@ -234,10 +234,24 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_nxJtUF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_3_1.webp",
+            "column_size": "3",
+            "title": "Natural Liver Support",
+            "heading_tag": "h4",
+            "content": "<p>Our formula combines Milk Thistle, Turmeric, and other premium botanicals that help cleanse the liver, reduce toxin buildup, and restore balance to your body.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_qfUMmC"
+        "item_qfUMmC",
+        "item_nxJtUF"
       ],
       "name": "Multi-column",
       "settings": {
@@ -251,6 +265,177 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "multi_column_RH93Yp": {
+      "type": "multi-column",
+      "blocks": {
+        "item_hWUppy": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2026-01-16 at 15.57.40.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_hWUppy"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Energy & Focus Boost",
+        "content": "<p>By supporting smoother digestion and metabolism, OxyEnergy helps reduce fatigue so you can power through your day with steady energy and sharper focus.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "testimonials_Ej9tJb": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_dfrmzn": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jenna R. | Los Angeles, CA",
+            "title": "",
+            "content": "<p>I started taking Oxyfuel three weeks ago and the bloating I always struggled with is gone. I feel lighter and actually have more energy in the afternoons now. Love that it’s clean and natural!</p>"
+          }
+        },
+        "testimonial_kUXUAh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Arthur S. | San Diego, CA",
+            "title": "",
+            "content": "<p>This is the only liver support supplement that didn’t upset my stomach. My digestion feels smoother, and I wake up feeling refreshed instead of sluggish.</p>"
+          }
+        },
+        "testimonial_kYihx3": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Brittany S. | Chicago, IL",
+            "title": "",
+            "content": "<p>I’ve tried other milk thistle supplements, but Oxyfuel is on another level. The combination with turmeric and vitamin C really works. Shipping was fast too!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_dfrmzn",
+        "testimonial_kUXUAh",
+        "testimonial_kYihx3"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "What People are saying",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "faq_8cagG6": {
+      "type": "faq",
+      "blocks": {
+        "item_ApVCVD": {
+          "type": "item",
+          "settings": {
+            "title": "How long does it take to see results?",
+            "content": "<p>Most people feel lighter energy and smoother digestion within 2–3 weeks. For deeper results like improved skin clarity and long-term vitality, consistent use for 8+ weeks is recommended.</p>"
+          }
+        },
+        "item_RAdPYg": {
+          "type": "item",
+          "settings": {
+            "title": "Is Oxyfuel™ safe to take daily?",
+            "content": "<p>Yes — it’s designed for safe, daily use. The ingredients are non-GMO, third-party tested, and produced in GMP-certified facilities.</p>"
+          }
+        },
+        "item_fe9Uw7": {
+          "type": "item",
+          "settings": {
+            "title": "Will it help with bloating and digestion?",
+            "content": "<p>We offer a 30-day “Feel It” Guarantee. If you don’t notice improvements in digestion, energy, or overall wellness, you can request a hassle-free refund.</p>"
+          }
+        },
+        "item_CLkyHA": {
+          "type": "item",
+          "settings": {
+            "title": "Can I take it with other medications?",
+            "content": "<p>If you’re taking prescription medicines, have a medical condition, or are pregnant/breastfeeding, it’s best to consult your healthcare provider before starting.</p>"
+          }
+        },
+        "item_AtbdLq": {
+          "type": "item",
+          "settings": {
+            "title": "Will it help with bloating and digestion?",
+            "content": "<p>Yes — many users report less bloating, better digestion, and feeling lighter after regular use thanks to ingredients like Inositol and Kudzu.</p>"
+          }
+        },
+        "item_JQY6ff": {
+          "type": "item",
+          "settings": {
+            "title": "What if I don’t see results?",
+            "content": "<p>We offer a 30-day “Feel It” Guarantee. If you don’t notice improvements in digestion, energy, or overall wellness, you can request a hassle-free refund.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ApVCVD",
+        "item_RAdPYg",
+        "item_fe9Uw7",
+        "item_CLkyHA",
+        "item_AtbdLq",
+        "item_JQY6ff"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "1768552078ebe313b4": {
@@ -287,6 +472,9 @@
     "rich_text_Xz4gXw",
     "1744714422dfffb400",
     "multi_column_qJajit",
+    "multi_column_RH93Yp",
+    "testimonials_Ej9tJb",
+    "faq_8cagG6",
     "1768552078ebe313b4"
   ]
 }
