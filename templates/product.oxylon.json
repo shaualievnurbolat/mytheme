@@ -72,9 +72,11 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
+        "rapi_bundles_rapi_bundle_fcwmHm": {
+          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{product}}"
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -131,7 +133,7 @@
         "payment_terms",
         "description",
         "variant_picker",
-        "quantity_selector",
+        "rapi_bundles_rapi_bundle_fcwmHm",
         "buy_buttons",
         "image_GegDPR",
         "liquid_VeFnH6",
