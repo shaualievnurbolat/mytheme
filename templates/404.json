@@ -20,15 +20,15 @@
         "image_Wgx9fd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Shapedly_Web_Banner.webp",
-            "mobile_image": "shopify://shop_images/Shapedly_Mobile_Banner_4598ecfc-bb8e-4175-9122-afa8dc1ae6d9.webp",
+            "image": "shopify://shop_images/Banner_oxyfuel.webp",
+            "mobile_image": "shopify://shop_images/Banner_oxyfuel.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "",
             "heading_tag": "h0",
-            "button_text": "SHOP NOW",
+            "button_text": "",
             "button_link": "shopify://products/back-smoothing-push-up-bra",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
@@ -55,27 +55,125 @@
         "background_gradient": ""
       }
     },
-    "17452330501d8400d5": {
-      "type": "apps",
+    "scrolling_text_CcFP8n": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Oxylon™ Milk Thistle Liver Detox & Colon Cleanse",
+        "text_size": "small",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "featured_product_QFkbcz": {
+      "type": "featured-product",
       "blocks": {
-        "storista_hero_7Dzjrb": {
-          "type": "shopify://apps/storista/blocks/hero/f115f4d7-a3d3-4324-9eed-5a084ef1bd5a",
+        "vendor_fmDTk8": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_hPiVHb": {
+          "type": "title",
           "settings": {
-            "widget_id": "",
-            "content_position": "bottom-center",
-            "heading": "Hero Video",
-            "heading_css": "",
-            "text": "Give customers details",
-            "text_css": "",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_css": ""
+            "heading_tag": "h2"
           }
+        },
+        "badges_V7QyTY": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_3bYApD": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_Vx3qqT": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_mHrCTb": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_X86bEb": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_UDiqmX": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_mdx66V": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_ycCAbq": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_rikLRw": {
+          "type": "pickup_availability",
+          "settings": {}
         }
       },
       "block_order": [
-        "storista_hero_7Dzjrb"
+        "vendor_fmDTk8",
+        "title_hPiVHb",
+        "badges_V7QyTY",
+        "price_3bYApD",
+        "rating_Vx3qqT",
+        "separator_mHrCTb",
+        "description_X86bEb",
+        "variant_picker_UDiqmX",
+        "quantity_selector_mdx66V",
+        "buy_buttons_ycCAbq",
+        "pickup_availability_rikLRw"
       ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "oxylon™-milk-thistle-liver-detox-colon-cleanse",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "17452330501d8400d5": {
+      "type": "apps",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -94,6 +192,8 @@
   "order": [
     "main",
     "slideshow_QdQij9",
+    "scrolling_text_CcFP8n",
+    "featured_product_QFkbcz",
     "17452330501d8400d5"
   ]
 }
