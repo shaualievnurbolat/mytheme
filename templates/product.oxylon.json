@@ -227,9 +227,9 @@
           "settings": {
             "video": "shopify://files/videos/WhatsApp Video 2026-01-16 at 13.52.46.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
