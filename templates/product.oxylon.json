@@ -140,6 +140,7 @@
         "collapsible_text_pP4qwQ"
       ],
       "custom_css": [
+        ".section--tight section-blends {}",
         ".badge--on-sale {background: green !important;}",
         ".product-info__text {margin-top: 0; font-size: 14px;}",
         ".product-info__description .prose p {margin: 7px 0;}",
@@ -161,6 +162,32 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_Xz4gXw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9mgzei": {
+          "type": "heading",
+          "settings": {
+            "text": "Real People. Real Results",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_9mgzei"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "1744714422dfffb400": {
@@ -221,6 +248,7 @@
   "order": [
     "custom_html_pDHaXr",
     "main",
+    "rich_text_Xz4gXw",
     "1744714422dfffb400",
     "1768552078ebe313b4"
   ]
