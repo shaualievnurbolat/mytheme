@@ -219,6 +219,40 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "multi_column_qJajit": {
+      "type": "multi-column",
+      "blocks": {
+        "item_qfUMmC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2026-01-16 at 13.52.46.mp4",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_qfUMmC"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Better Digestion, Less Bloating",
+        "content": "<p>With ingredients like Inositol and Kudzu, this blend supports healthy digestion, reduces bloating, and helps you feel lighter and more comfortable.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1768552078ebe313b4": {
       "type": "apps",
       "blocks": {
@@ -252,6 +286,7 @@
     "main",
     "rich_text_Xz4gXw",
     "1744714422dfffb400",
+    "multi_column_qJajit",
     "1768552078ebe313b4"
   ]
 }
