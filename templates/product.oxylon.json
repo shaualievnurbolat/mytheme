@@ -140,7 +140,6 @@
         "collapsible_text_pP4qwQ"
       ],
       "custom_css": [
-        ".section--tight section-blends {}",
         ".badge--on-sale {background: green !important;}",
         ".product-info__text {margin-top: 0; font-size: 14px;}",
         ".product-info__description .prose p {margin: 7px 0;}",
@@ -179,6 +178,9 @@
       },
       "block_order": [
         "heading_9mgzei"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 30px;}"
       ],
       "name": "Rich text",
       "settings": {
