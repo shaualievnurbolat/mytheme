@@ -46,18 +46,8 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "11845914243612142669": {
-        "type": "shopify://apps/trustify-reviews/blocks/omega-facebook-reviews/60d505af-e468-47cf-a184-a06ccd6703ac",
-        "disabled": false,
-        "settings": {}
-      },
-      "9696655121035291526": {
-        "type": "shopify://apps/rapi/blocks/app-embed/99617c17-a32b-4e70-a883-7a155610d032",
-        "disabled": false,
-        "settings": {}
-      },
-      "9432750614194193090": {
-        "type": "shopify://apps/trustify-reviews/blocks/app-embed-block/60d505af-e468-47cf-a184-a06ccd6703ac",
+      "3868600829136772411": {
+        "type": "shopify://apps/lyve-shoppable-video-stream/blocks/app-embed/59c1ba16-2c38-422a-a2a9-23074d5a3fd9",
         "disabled": false,
         "settings": {}
       }

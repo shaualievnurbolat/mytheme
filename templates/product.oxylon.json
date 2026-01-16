@@ -120,20 +120,6 @@
             "title": "Shipping Info",
             "content": "<p>We ship Monday–Saturday, Here’s what to expect:</p><p>- Shipping Time: 2–5 business days (USA)</p><p>- International Shipping: Available to select countries (7–14 business days)</p><p>- Tracking Info: Sent via email within 24 hours of dispatch</p><p>- Discreet Packaging: Your order is shipped in plain, secure packaging for your privacy</p>"
           }
-        },
-        "image_HqUKc4": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "image_NLKHXF": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
         }
       },
       "block_order": [
@@ -151,9 +137,7 @@
         "liquid_VeFnH6",
         "collapsible_text_tR4QTQ",
         "collapsible_text_7UecpT",
-        "collapsible_text_pP4qwQ",
-        "image_HqUKc4",
-        "image_NLKHXF"
+        "collapsible_text_pP4qwQ"
       ],
       "custom_css": [
         ".badge--on-sale {background: green !important;}",
@@ -181,6 +165,17 @@
     },
     "1744714422dfffb400": {
       "type": "apps",
+      "blocks": {
+        "lyve_shoppable_video_stream_carousel_app_block_7hEnba": {
+          "type": "shopify://apps/lyve-shoppable-video-stream/blocks/carousel-app-block/59c1ba16-2c38-422a-a2a9-23074d5a3fd9",
+          "settings": {
+            "custom_id": "6969f6710c0a1374b7a19f15"
+          }
+        }
+      },
+      "block_order": [
+        "lyve_shoppable_video_stream_carousel_app_block_7hEnba"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -194,11 +189,39 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "1768552078ebe313b4": {
+      "type": "apps",
+      "blocks": {
+        "lyve_shoppable_video_stream_carousel_app_block_nhYKxA": {
+          "type": "shopify://apps/lyve-shoppable-video-stream/blocks/carousel-app-block/59c1ba16-2c38-422a-a2a9-23074d5a3fd9",
+          "settings": {
+            "custom_id": "Carousel ID"
+          }
+        }
+      },
+      "block_order": [
+        "lyve_shoppable_video_stream_carousel_app_block_nhYKxA"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
     "custom_html_pDHaXr",
     "main",
-    "1744714422dfffb400"
+    "1744714422dfffb400",
+    "1768552078ebe313b4"
   ]
 }
