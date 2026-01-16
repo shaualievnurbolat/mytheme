@@ -27,15 +27,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_GfNdJ9": {
+          "type": "message",
+          "settings": {
+            "text": "Free Worldwide Shipping",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "FREE SHIPPING AND FAST SHIPPING",
+            "text": "New Year Sale Live",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_GfNdJ9",
         "message"
       ],
       "custom_css": [],
