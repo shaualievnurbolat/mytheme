@@ -203,7 +203,7 @@
         "logolicious_app_block_Rwadwj"
       ],
       "custom_css": [
-        ".section-full {padding-top: 10px;padding-bottom: 20px;}"
+        ".section-full {padding-top: 15px; padding-bottom: 20px;}"
       ],
       "settings": {
         "full_width": true,
