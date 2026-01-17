@@ -182,7 +182,7 @@
         "heading_9mgzei"
       ],
       "custom_css": [
-        ".section-full {padding-top: 30px;}"
+        ".section-full {padding-top: 30px; padding-bottom: 10px;}"
       ],
       "name": "Rich text",
       "settings": {
@@ -254,6 +254,9 @@
       "block_order": [
         "item_qfUMmC",
         "item_nxJtUF"
+      ],
+      "custom_css": [
+        ".justify-start {display: flex; flex-direction: column-reverse;}"
       ],
       "name": "Multi-column",
       "settings": {
