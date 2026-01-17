@@ -165,6 +165,60 @@
         "input_text_color": ""
       }
     },
+    "17686699656823cde7": {
+      "type": "apps",
+      "blocks": {
+        "logolicious_app_block_Rwadwj": {
+          "type": "shopify://apps/logolicious/blocks/app-block/fa8a9c52-9a2b-4452-9900-ea0c41834d57",
+          "settings": {
+            "slot": "1",
+            "logoColorScheme": "normal",
+            "customLogoColor": "#333333",
+            "showLogoTitles": "disabled",
+            "maxLogoWidth": 120,
+            "maxLogoHeight": 90,
+            "gap": 40,
+            "sliderHeading": "",
+            "sliderSubHeading": "",
+            "headingMarginBottom": 0,
+            "headingColorScheme": "default",
+            "headingColor": "#333333",
+            "sliderHeadingAlignment": "center",
+            "interval": 2500,
+            "speed": 500,
+            "moveType": "logo",
+            "moveDirection": "ltr",
+            "showArrows": "false",
+            "arrowColor": "#121212",
+            "showDots": "false",
+            "pageDotsMarginTop": 24,
+            "dotColor": "#121212",
+            "blockBackground": "transparent",
+            "blockPaddingTop": 0,
+            "blockPaddingBottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "logolicious_app_block_Rwadwj"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 10px;padding-bottom: 20px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "rich_text_Xz4gXw": {
       "type": "rich-text",
       "blocks": {
@@ -506,6 +560,7 @@
   "order": [
     "custom_html_pDHaXr",
     "main",
+    "17686699656823cde7",
     "rich_text_Xz4gXw",
     "1744714422dfffb400",
     "multi_column_qJajit",
